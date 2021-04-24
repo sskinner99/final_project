@@ -1,0 +1,1001 @@
+first_name,last_name,state,job_title,salary,tenure,credit_score,age,sex,loan_amount,interest_rate,checking_savings,existing_debt
+Kerrin,Thompstone,WI,Junior Executive,$31330.62,19,726,85,F,$116286.60,3.8,9297.29,$8083.40
+Valida,Goffe,MO,Associate Professor,$34173.05,23,581,41,F,$365584.56,3.6,3333.93,$12537.18
+Rollins,Fellon,NY,Accountant I,$55615.74,22,795,72,M,$221657.40,2.7,39.46,$55147.37
+Grenville,McArte,WV,Analog Circuit Design manager,$36675.24,20,770,78,M,$216.20,2.6,8518.11,$9871.60
+Micah,Yurkin,TX,Professor,$36377.32,19,360,56,M,$67730.67,3.4,5067.22,$67733.55
+Nester,Janauschek,VA,Research Assistant II,$44029.23,28,629,52,M,$159204.33,3.8,-771.14,$28568.65
+Zonda,Mossbee,GA,Recruiting Manager,$50331.45,11,737,74,F,$420109.03,3.4,6565.92,$69153.25
+Inez,Syne,MA,Pharmacist,$49490.37,21,445,57,F,$260384.13,3.1,5002.16,$3005.57
+Anatol,Wormleighton,NY,VP Marketing,$35789.72,19,352,64,M,$397311.16,3.2,775.7,$52902.25
+Trixie,Sill,FL,Payment Adjustment Coordinator,$34607.13,18,356,28,F,$471791.60,3.9,3807.69,$41014.17
+Gregorio,Bennet,ID,Occupational Therapist,$58727.23,5,776,32,M,$100111.58,3.9,1130.13,$3293.22
+Tanney,McClements,GA,Account Executive,$26595.22,4,470,41,M,$54023.50,2.9,1171.09,$45254.46
+Mikael,Seabright,TX,General Manager,$28960.66,27,703,63,M,$493880.80,2.9,2679.1,$24722.06
+Allene,Van den Velden,CO,Help Desk Technician,$54181.53,3,419,55,F,$27172.93,3.7,1421.1,$24053.07
+Baxy,Redmille,MN,Health Coach I,$50640.31,27,391,39,M,$456890.49,2.7,-883.5,$62139.89
+Svend,Pethick,TN,Health Coach I,$55537.52,30,763,61,M,$278656.13,4.0,6777.21,$23126.62
+Hyman,Moakson,MI,Electrical Engineer,$58280.62,25,470,47,M,$324670.50,3.5,7747.69,$16714.11
+Fae,Baigrie,IN,Senior Financial Analyst,$36377.72,29,727,37,F,$403234.09,3.8,5600.5,$18547.97
+Jaquenetta,Sustin,NE,Nuclear Power Engineer,$55502.09,18,738,35,F,$139058.33,3.8,-341.14,$15201.10
+Thornton,Belton,IL,Assistant Manager,$40615.27,29,451,64,M,$3575.39,3.7,8781.65,$56037.61
+Danni,Yurkin,FL,Financial Analyst,$43412.35,18,729,66,F,$351910.97,3.7,4488.88,$51999.29
+Ogdan,Wardel,WI,Accountant III,$53891.98,3,631,77,M,$53019.43,3.7,6684.73,$68223.15
+Justis,Hischke,FL,Software Consultant,$38602.30,13,850,69,M,$192148.04,2.6,7170.67,$54607.47
+Luisa,Davidofski,GA,Product Engineer,$39902.86,17,586,64,F,$365662.74,2.8,3703.52,$68323.12
+Ginger,Drew-Clifton,TX,Financial Advisor,$26958.46,9,760,75,M,$7767.76,3.8,9216.97,$18518.69
+Scarface,Escalero,MA,Quality Control Specialist,$33602.68,23,806,84,M,$281388.61,2.7,6587.25,$64218.46
+Brewster,Whitfeld,NY,Media Manager II,$45354.05,6,604,27,M,$408962.30,3.4,3049.05,$10781.68
+Filberto,Boome,GA,VP Marketing,$57817.58,8,409,45,M,$155256.94,2.8,5439.89,$70642.01
+Haskell,Stockney,TX,Structural Analysis Engineer,$35041.53,21,818,33,M,$252726.28,3.8,5763.66,$37993.93
+Helyn,Cashmore,OH,Financial Advisor,$35979.77,28,734,69,F,$314597.15,3.4,7496.59,$71436.05
+Tally,Mobley,KY,Environmental Tech,$50396.09,22,658,18,M,$65326.46,2.6,5946.69,$22508.12
+Shannon,Bayle,MS,VP Accounting,$50912.22,10,672,70,F,$396094.78,2.9,1752.23,$52302.70
+Montgomery,Hayworth,FL,Graphic Designer,$40114.86,4,587,32,M,$469363.06,2.7,7066.14,$27300.36
+Christin,Binny,NC,Account Representative III,$56998.01,15,688,54,F,$251482.35,3.8,4237.59,$59938.61
+Pavia,Tallman,NV,Senior Sales Associate,$54066.56,16,431,80,F,$448564.76,3.4,4539.65,$44683.13
+Harry,Serrels,TX,Registered Nurse,$57706.60,23,790,71,M,$136884.51,3.0,6309.65,$51480.37
+Alexis,Mongenot,AL,Registered Nurse,$48124.48,12,476,73,F,$251397.84,3.6,3104.11,$9601.90
+Preston,Springer,DC,Clinical Specialist,$30082.77,19,512,44,M,$55408.24,3.8,6585.69,$46334.51
+Cordy,Coole,IL,Physical Therapy Assistant,$29379.42,22,374,57,F,$153564.32,3.1,4448.56,$8736.26
+Bryan,Leall,CO,Human Resources Assistant III,$57781.04,26,459,49,M,$231736.37,3.2,24.1,$4421.22
+Idalia,Heady,AK,Civil Engineer,$54730.27,29,471,26,F,$345620.09,2.7,5590.95,$25251.67
+Dore,Heymes,MN,Administrative Officer,$33870.79,27,425,37,M,$8056.75,3.5,5834.03,$20539.16
+Kin,Huitson,MO,Environmental Tech,$52375.38,27,536,23,M,$104876.83,2.7,3415.7,$5104.20
+Haven,Balk,FL,Civil Engineer,$48936.60,29,561,24,M,$452995.84,2.6,9486.26,$23084.18
+Bryn,Staveley,DC,General Manager,$48572.21,10,513,29,M,$447673.66,2.8,6878.56,$70601.45
+Christopher,Grigori,IL,Assistant Media Planner,$57921.41,17,406,57,M,$1295.50,3.9,1839.93,$73589.73
+Christel,Dymoke,TX,Senior Quality Engineer,$28114.05,2,771,33,F,$439194.73,3.2,4343.49,$23322.55
+Ania,Bockett,PA,Business Systems Development Analyst,$55181.63,3,633,68,F,$420620.60,3.2,8017.48,$4024.73
+Belvia,Lermit,GA,Account Representative IV,$52538.62,7,720,26,F,$256042.60,2.6,5622.01,$8226.77
+Roze,Lochead,CA,Physical Therapy Assistant,$27028.65,30,813,69,F,$203804.19,3.0,2334.56,$74693.31
+Elie,Greenier,NY,Software Engineer II,$59648.80,17,677,44,F,$336200.85,3.1,8669.06,$51496.28
+Kathlin,Malsher,DC,Data Coordiator,$27032.77,16,574,59,F,$298344.67,3.8,6660.31,$51101.63
+Cristionna,Gercken,AR,Data Coordiator,$51776.21,27,712,58,F,$486366.77,2.8,-126.46,$70433.88
+Staffard,Meeking,AZ,Product Engineer,$44340.20,25,616,75,M,$297197.48,3.0,5056.96,$43226.11
+Sharona,Houchen,MO,Software Consultant,$29827.50,13,630,82,F,$206762.59,3.7,2107.41,$54484.04
+Cyndie,Ingreda,MA,VP Accounting,$28205.79,24,667,81,F,$9409.39,3.8,3406.11,$6345.86
+Caitrin,Kolak,TN,Graphic Designer,$28616.59,18,757,37,F,$107467.33,2.8,-336.71,$26057.81
+Derron,Vanelli,NY,Software Engineer II,$33230.90,8,554,43,M,$162680.37,2.9,7963.64,$16168.49
+Gabriellia,Sheeres,PA,Human Resources Manager,$27455.80,5,422,58,F,$407784.51,4.0,6230.94,$67292.50
+Ninnetta,Malim,TN,Occupational Therapist,$57396.55,1,401,51,F,$384866.28,2.7,9566.27,$31890.99
+Clarke,Webber,CT,Internal Auditor,$37743.61,16,366,31,M,$176910.42,3.1,2111.76,$38345.47
+Evaleen,Trahear,VA,Legal Assistant,$57931.55,7,519,20,F,$39151.70,3.5,2610.27,$8742.80
+Carr,Berthomier,CA,Recruiting Manager,$36506.58,19,705,19,M,$211217.14,3.6,9648.68,$40276.69
+Lori,Douch,TX,Civil Engineer,$56993.46,22,835,41,F,$258845.01,3.8,7184.75,$11978.22
+Druci,Feares,FL,Food Chemist,$32326.70,7,753,48,F,$51195.94,2.7,337.59,$20674.49
+Winna,Risborough,OH,Librarian,$38475.61,19,384,61,F,$261817.86,3.9,5169.7,$31007.48
+Barnabe,Reder,KY,Engineer I,$44310.68,20,849,75,M,$271735.35,2.6,8799.13,$48453.15
+Lorrie,Oliveti,CA,Research Associate,$51298.03,8,682,28,M,$458733.55,2.9,7704.51,$60182.91
+Yorgo,McHaffy,TX,Financial Advisor,$50603.72,4,595,53,M,$305323.80,3.1,5345.95,$56700.49
+Morgun,Allso,MT,Sales Associate,$59786.29,30,845,73,M,$144077.05,2.8,5319.63,$53509.31
+Sadella,Higgonet,OH,Health Coach IV,$47051.51,2,823,59,F,$234002.69,3.5,5983.51,$34273.85
+Neddy,Whittet,CO,Help Desk Technician,$51186.52,13,839,62,M,$104991.75,3.6,8215.87,$22195.51
+Shelley,McGinnis,CA,VP Product Management,$38700.08,23,488,24,M,$281436.65,3.2,8890.12,$18364.40
+Clevey,Greenhaugh,NY,Food Chemist,$52075.10,11,688,30,M,$159870.43,3.7,9269.0,$1564.60
+Benny,Leask,CO,Editor,$29592.29,12,471,48,F,$4388.28,3.8,1071.79,$13146.36
+Milton,Moro,CA,Compensation Analyst,$47957.82,13,423,48,M,$490644.92,3.0,8143.67,$52837.21
+Gladi,Sparhawk,TX,Statistician IV,$58437.72,10,639,36,F,$121072.25,2.9,4229.89,$48662.04
+Dido,Habberjam,NV,VP Accounting,$31836.24,3,521,64,F,$95229.03,3.9,8882.66,$25784.14
+Austin,Gemlett,IL,Civil Engineer,$31061.32,2,808,32,F,$34053.94,2.7,2513.13,$12549.54
+Carine,Coole,LA,Cost Accountant,$39164.11,7,424,63,F,$445512.48,2.9,900.17,$46104.80
+Sheff,Stiling,ID,Help Desk Technician,$35069.91,20,488,63,M,$27418.23,2.9,7144.79,$37633.11
+Rebekah,Garcia,VA,Legal Assistant,$41035.97,24,587,77,F,$363095.57,3.4,8084.32,$38633.68
+Bertine,O'Geneay,IA,Graphic Designer,$58049.76,18,842,50,F,$94492.93,3.4,4307.05,$57165.65
+Vincenty,Askham,NE,Programmer Analyst III,$30120.68,23,628,82,M,$494300.54,3.2,4530.84,$5190.45
+Melisse,Lozano,CA,Assistant Manager,$48118.34,30,804,66,F,$446778.69,4.0,8692.67,$20697.88
+Astrix,Havoc,FL,Chief Design Engineer,$44251.27,15,791,24,F,$316625.64,3.2,5400.09,$34778.39
+Darcy,Corneljes,FL,Occupational Therapist,$49588.71,5,598,29,F,$22002.09,3.7,6707.4,$3224.14
+Deane,Hulls,CT,Editor,$34845.34,25,768,79,M,$99271.59,2.8,8728.73,$35399.85
+Brinn,Donohue,CA,Statistician III,$59468.31,14,532,21,F,$259147.30,3.2,-744.13,$74376.13
+Rhiamon,Milligan,TX,Software Consultant,$44090.31,13,788,77,F,$415161.52,3.0,6681.12,$16857.07
+Claus,Laurenz,NV,Actuary,$57129.22,19,491,21,M,$295296.50,3.1,-427.1,$18179.45
+Jere,Brabban,WV,Nurse Practicioner,$51145.42,17,563,24,M,$113292.45,2.6,2523.62,$34435.27
+Camile,Dallaway,CO,Geologist II,$59097.50,19,470,46,F,$471462.07,4.0,5999.15,$47073.16
+Lowe,Kordes,TX,Director of Sales,$53651.99,15,438,81,M,$184133.48,3.0,5220.24,$15791.46
+Smith,Cano,CA,Safety Technician I,$42207.54,5,358,67,M,$485525.45,2.8,6361.58,$32135.67
+Cristen,Redparth,CA,Analog Circuit Design manager,$49683.59,15,805,74,F,$37707.49,3.8,-933.36,$5780.01
+Kristofor,Gotecliffe,AZ,Project Manager,$40057.87,3,819,47,M,$197776.32,2.6,6732.61,$53117.99
+Dorine,O'Curneen,OH,Software Test Engineer III,$27510.56,11,540,36,F,$367775.91,2.6,5008.46,$49551.38
+Eward,Rogers,TN,Analyst Programmer,$43730.56,23,843,30,M,$464506.17,2.5,210.55,$14287.62
+Dona,Dillestone,AL,Nurse,$47052.44,11,793,81,F,$112960.62,2.9,6681.63,$43177.16
+Derk,Dockery,CA,Junior Executive,$44409.20,26,696,84,M,$162218.90,3.6,-666.46,$21312.08
+Brennen,Brehaut,CA,Recruiter,$44150.24,20,835,32,M,$186079.15,2.7,6148.76,$8317.50
+Hercules,Lineker,TN,General Manager,$49864.63,23,618,33,M,$18373.22,2.5,8793.95,$51390.79
+Orren,Collinge,FL,Geological Engineer,$56217.41,20,357,67,M,$203855.07,3.0,4510.39,$57788.03
+Wallie,Hamlyn,FL,Social Worker,$41907.22,21,696,55,F,$409588.88,2.7,-852.27,$53775.92
+Danni,Bracknell,TX,Senior Editor,$34321.58,14,400,62,F,$168972.66,2.6,7495.47,$35291.38
+Averil,Olive,NC,Desktop Support Technician,$53795.74,18,485,58,M,$201936.21,3.1,-77.11,$13406.37
+Hildegaard,O'Shesnan,NV,Payment Adjustment Coordinator,$54619.91,10,632,35,F,$39298.04,2.8,1570.66,$13664.35
+Flss,Postans,CA,Food Chemist,$48126.12,14,689,19,F,$77497.08,3.6,4893.86,$41653.53
+Ewen,Oliva,DC,Assistant Manager,$58897.96,2,542,42,M,$421934.67,4.0,4920.06,$35532.19
+Dwight,Gerrelt,LA,Computer Systems Analyst I,$30242.79,17,771,58,M,$390844.28,3.7,-564.97,$15426.85
+Tatiania,Tilbrook,PA,Chief Design Engineer,$47859.03,6,467,29,F,$403857.59,3.4,6399.62,$62535.71
+Carrissa,Hortop,IN,Recruiting Manager,$35546.56,3,393,21,F,$327491.61,3.9,8790.5,$55553.06
+Bryn,Rings,NY,Computer Systems Analyst I,$43800.45,3,388,58,M,$346254.27,3.4,8783.88,$51502.03
+Gwenora,de Vaen,MD,Financial Advisor,$55621.26,23,489,73,F,$40578.46,3.7,6224.07,$65170.19
+George,Weich,MA,Professor,$34572.83,25,375,32,M,$317466.82,2.7,1802.55,$1495.65
+Cyb,Denzilow,TX,Geological Engineer,$59920.87,16,435,69,F,$380679.48,3.3,4940.33,$28599.74
+Arleen,Futty,TX,Analog Circuit Design manager,$36596.72,9,393,55,F,$395072.92,3.1,3544.3,$22219.17
+Windham,Cafe,VA,Structural Engineer,$39897.85,10,540,74,M,$490285.94,3.7,5990.42,$9217.23
+Lois,Ranald,CO,Design Engineer,$35005.13,11,623,81,F,$327735.84,4.0,1741.39,$73372.23
+Evered,Stritton,MA,Senior Financial Analyst,$37523.68,5,462,78,M,$84036.62,3.6,2868.3,$68401.21
+Judith,Robertsen,NC,Nurse Practicioner,$29975.10,12,818,32,F,$363034.99,3.5,1257.75,$33835.28
+Markus,Stanlock,OK,Senior Quality Engineer,$30182.91,24,457,23,M,$111332.53,3.2,7658.11,$8540.21
+Lizzy,Turbefield,AR,Senior Sales Associate,$49409.75,23,457,49,F,$357130.90,3.5,8508.2,$69696.68
+Aggy,Cherrison,FL,Internal Auditor,$31587.96,13,480,54,F,$470311.98,2.6,4096.39,$57729.87
+Normie,Blackah,TX,Biostatistician IV,$27244.00,23,435,71,M,$94471.46,2.6,-768.17,$29211.76
+Corri,Gard,VA,Human Resources Assistant I,$59850.47,5,847,77,F,$465831.05,3.9,1871.68,$30520.29
+Christoph,MacAnellye,TX,General Manager,$35380.86,12,694,19,M,$341744.41,3.3,8168.6,$53451.83
+Cully,Stoite,HI,Senior Sales Associate,$57743.60,18,476,56,M,$80478.03,2.7,664.78,$18225.36
+Micheil,Paybody,AR,Web Designer II,$56094.49,21,594,52,M,$24043.74,3.5,262.5,$74788.41
+Ode,Schrei,FL,Administrative Officer,$51566.72,1,612,46,M,$224548.90,3.4,1091.39,$33791.42
+Datha,Yewdall,DC,Junior Executive,$36477.97,26,572,56,F,$355213.70,2.6,7030.69,$30053.39
+Arlan,Quittonden,MS,Web Developer I,$57003.63,29,579,51,M,$283949.11,3.2,1193.24,$18308.80
+Bearnard,Schultes,NC,Automation Specialist III,$38249.63,16,808,41,M,$213851.96,2.6,1848.83,$64640.96
+Jacinta,Sickamore,PA,Programmer Analyst I,$45206.85,24,699,34,F,$431946.05,2.7,-75.56,$17506.33
+Maisie,Wagstaff,ND,Editor,$56069.35,6,800,65,F,$22177.43,2.7,1812.97,$40797.07
+Catharine,Nolte,FL,Marketing Manager,$38439.81,12,661,71,F,$397818.84,3.0,7473.76,$73436.91
+Clair,Pryn,IL,Editor,$42988.79,24,387,49,F,$495060.33,3.3,3136.5,$248.56
+Daryl,Beazleigh,IN,VP Quality Control,$47321.85,13,503,82,F,$54305.49,2.8,5835.15,$36551.25
+Padgett,Le Prevost,NJ,Electrical Engineer,$35204.27,20,774,59,M,$205524.82,3.1,3778.3,$64723.23
+Riannon,Hindsberg,TX,Administrative Assistant II,$50094.41,27,456,26,F,$199072.49,3.9,4326.2,$8253.61
+Albertine,Arling,TX,Programmer Analyst I,$30078.20,19,429,72,F,$266259.53,3.1,4757.65,$32861.57
+Raf,Chesney,FL,Senior Financial Analyst,$34983.60,12,828,35,F,$332738.82,3.7,2522.94,$22460.24
+Kelci,Pessolt,FL,Mechanical Systems Engineer,$39487.54,3,451,72,F,$425384.01,3.7,2897.24,$70183.11
+Rolando,Juan,MO,Programmer III,$32837.90,9,778,43,M,$18528.52,3.4,6236.64,$1736.48
+Kaia,Pavelka,MN,Web Designer I,$50220.69,12,720,58,F,$326629.45,2.7,8315.96,$36266.04
+Waylan,Paulmann,NY,Media Manager I,$56447.74,9,474,23,M,$9120.56,2.8,8124.9,$44029.70
+Genna,Flarity,CA,Statistician I,$29496.06,7,380,24,F,$430699.45,3.5,9551.77,$53666.73
+Sigmund,Eakly,NC,Desktop Support Technician,$34771.34,27,791,50,M,$396701.14,4.0,6472.23,$27896.34
+Lynette,Golborne,VA,Internal Auditor,$51415.13,27,733,69,F,$331139.86,2.8,9121.47,$9967.41
+Teddie,O'Lenane,TX,Quality Control Specialist,$47392.28,23,413,79,M,$371796.87,3.1,3713.48,$28297.74
+Montgomery,Wiersma,CT,Research Associate,$40774.58,30,684,37,M,$377748.34,3.6,8091.12,$45571.83
+Sandy,Brashier,SC,Paralegal,$38195.07,1,662,40,F,$324227.89,3.4,8140.2,$19747.10
+Cathi,Snape,FL,Environmental Specialist,$30601.46,9,465,47,F,$402534.02,3.5,7215.63,$50859.07
+Consalve,Kinnach,FL,Structural Engineer,$52988.13,7,680,38,M,$457041.95,3.2,-809.34,$27132.95
+Anthony,Gallahar,TX,Librarian,$39696.51,11,807,20,M,$226955.80,3.1,9099.35,$52455.11
+Shelly,McGee,VA,Information Systems Manager,$46598.23,1,381,47,F,$98959.25,3.4,383.18,$37237.91
+Galven,Loveguard,IN,Analog Circuit Design manager,$39518.42,23,462,51,M,$13370.88,2.8,3200.86,$60989.98
+Wenona,Richemont,CA,VP Quality Control,$31270.33,30,415,62,F,$167668.10,2.7,540.14,$19962.15
+York,Surplice,TX,Senior Cost Accountant,$34828.83,24,738,81,M,$110562.54,3.1,2027.82,$17765.21
+Lauretta,Guitt,AL,Technical Writer,$39499.37,27,745,40,F,$388079.62,3.3,5116.24,$21487.01
+Terri,Morhall,OH,Civil Engineer,$30843.50,3,719,69,M,$38476.98,3.0,6385.87,$61327.67
+Gard,Klessmann,AL,Junior Executive,$41512.36,25,362,63,M,$254044.91,2.7,986.76,$532.96
+Fulton,Burkman,IN,Food Chemist,$33039.57,10,798,32,M,$428652.09,2.5,9156.05,$16721.32
+Halsy,Ellwell,TX,Financial Analyst,$57763.20,27,486,83,M,$317789.49,4.0,8189.54,$39305.26
+Henrietta,Kolak,OK,Environmental Tech,$47367.69,5,768,71,F,$289681.15,3.3,855.66,$54839.83
+Fey,Kelshaw,TN,Speech Pathologist,$33728.04,13,384,69,F,$350356.62,4.0,1104.95,$26382.46
+Ivar,Weatherdon,AZ,Physical Therapy Assistant,$29516.63,4,752,34,M,$315209.69,3.5,2368.1,$70214.21
+Milena,Kippie,CO,Programmer IV,$50901.05,28,805,49,F,$25165.28,3.3,1108.68,$1779.69
+Mela,Sturch,MO,Physical Therapy Assistant,$33802.54,22,774,38,F,$285936.79,3.0,8964.36,$32364.19
+Grove,Carreyette,GA,Senior Quality Engineer,$37292.21,6,548,76,M,$457468.13,3.7,1335.16,$24073.94
+Sapphira,Kember,FL,Database Administrator III,$37493.20,4,585,42,F,$474747.39,2.8,937.48,$46864.65
+Ashil,Dunkirk,CA,Editor,$44723.97,3,501,23,F,$198826.66,3.9,2859.14,$46190.63
+Tadio,Misson,DC,Financial Analyst,$31374.44,23,724,73,M,$365438.24,2.7,4530.69,$5444.70
+Elissa,Yateman,MD,VP Accounting,$35477.38,16,606,62,F,$76748.73,3.1,6980.94,$15796.97
+Vic,Kislingbury,CA,Budget/Accounting Analyst II,$27398.22,3,495,57,M,$369954.17,3.5,3916.89,$56845.69
+Alfons,Hedaux,CA,Software Engineer IV,$38772.95,5,354,57,M,$447276.31,3.1,8830.15,$73670.95
+Allix,Pepperrall,UT,Staff Accountant I,$54051.98,20,416,74,F,$160374.66,3.4,4862.1,$58566.12
+Christine,Churches,NY,Senior Quality Engineer,$30487.30,27,747,43,F,$386756.79,3.4,6822.03,$59891.45
+Hew,Jahn,FL,Computer Systems Analyst IV,$41302.60,26,538,61,M,$452190.19,3.5,6215.13,$55935.10
+Yale,Embury,DC,Analog Circuit Design manager,$56511.03,17,730,85,M,$441982.11,2.9,3407.67,$7861.78
+Mohammed,Palfery,MO,Chief Design Engineer,$55493.95,24,640,85,M,$164078.59,2.8,5465.5,$6866.97
+Pat,Patnelli,OR,Administrative Officer,$50732.16,26,791,37,M,$146269.81,3.5,8638.96,$4395.92
+Nelson,Kleiser,CA,Occupational Therapist,$39906.73,1,424,67,M,$4982.42,3.0,1751.72,$33529.22
+Daile,Leile,NY,Accountant II,$56832.67,19,692,19,F,$81749.55,3.2,4316.42,$1723.03
+Hillel,Goldsberry,TX,Analyst Programmer,$51091.56,16,468,69,M,$233339.91,2.8,4284.86,$72647.64
+Carmen,Cobleigh,TX,Engineer II,$27860.58,3,369,34,F,$463931.70,2.6,4242.37,$12575.48
+Cinnamon,Barneveld,TX,Nurse,$38342.10,14,699,41,F,$470363.78,3.0,4830.98,$8420.09
+Jasper,Merredy,OH,Research Associate,$29543.11,5,737,21,M,$350227.04,2.8,2211.2,$68792.25
+Aurilia,Van Driel,NC,Assistant Manager,$31284.67,2,422,34,F,$122047.74,2.7,6899.1,$69865.79
+Mitch,Chinnery,MI,Electrical Engineer,$33361.68,2,780,69,M,$416029.74,3.5,5416.67,$60761.87
+Shurlock,Zapatero,OK,Senior Developer,$30546.14,16,692,68,M,$457622.63,3.7,5641.45,$59838.63
+Merna,Guislin,WI,Structural Analysis Engineer,$58249.98,11,590,49,F,$213449.47,4.0,7863.5,$55733.76
+Dougy,Courtese,NY,Chief Design Engineer,$46057.28,5,803,36,M,$347574.51,3.3,969.41,$50746.09
+Parrnell,Trevorrow,FL,Business Systems Development Analyst,$34985.07,7,828,55,M,$497590.56,3.6,9175.11,$47851.53
+Sarge,Symondson,NY,Speech Pathologist,$45741.00,10,756,62,M,$444752.62,2.6,7989.11,$46859.63
+Lisette,Pymer,CA,Executive Secretary,$57561.96,22,483,46,F,$408194.10,3.1,6832.61,$69458.83
+Lira,Persey,CA,Senior Developer,$32871.63,29,359,82,F,$329861.34,3.5,5216.54,$31738.10
+Holly,Cutress,GA,Assistant Professor,$55572.85,11,466,76,F,$209975.63,3.5,5628.85,$38290.65
+Averell,Hyam,AZ,VP Sales,$40173.57,1,547,61,M,$203719.49,2.8,5927.32,$70390.64
+Tailor,Prestwich,TX,Professor,$38769.52,5,535,57,M,$258224.38,4.0,4263.48,$6014.77
+Salim,Pozer,IL,Teacher,$55037.19,23,395,47,M,$488738.77,2.5,2122.17,$25413.74
+Suellen,Volk,UT,Technical Writer,$43262.05,19,472,49,F,$394047.64,2.9,5603.31,$68407.34
+Claudie,Iglesiaz,CA,Occupational Therapist,$35852.97,8,596,40,F,$197476.17,3.9,-196.79,$49308.49
+Robbie,Petrulis,NC,Senior Cost Accountant,$47261.88,23,639,80,F,$344038.65,3.3,4194.03,$66424.59
+Wenona,Bonnar,FL,Dental Hygienist,$38495.45,4,557,47,F,$175340.73,2.7,608.81,$54237.19
+Cathy,Lacroutz,WV,Actuary,$39825.33,24,565,81,F,$207277.12,3.8,8047.23,$23231.83
+Corbett,Monkton,CO,Analyst Programmer,$46036.00,16,631,22,M,$431516.83,3.5,5134.13,$12392.86
+Bartolemo,Dupree,NC,Accountant II,$41721.23,1,387,59,M,$116203.65,2.6,9830.3,$40444.28
+Rossie,Yanshin,CO,Programmer III,$53872.61,20,843,36,M,$359924.19,3.3,9019.73,$70750.69
+Hodge,Chilcotte,NE,Developer III,$32306.82,12,550,74,M,$263428.38,3.6,3868.18,$60707.17
+Wain,Chittenden,CA,Tax Accountant,$44427.80,27,716,71,M,$334556.25,2.8,1308.27,$68924.23
+Rodrigo,Addionizio,OH,Junior Executive,$34839.30,10,761,35,M,$250210.87,3.4,2271.53,$44577.00
+Torr,Wasmer,PA,Quality Control Specialist,$42062.94,11,425,29,M,$14943.13,2.6,1433.81,$31430.38
+Rutledge,Mattedi,TX,Senior Quality Engineer,$43939.39,13,494,50,M,$287066.51,3.0,172.22,$62129.81
+Verney,Pughsley,TX,Quality Control Specialist,$50397.34,14,681,76,M,$362700.89,3.1,2478.54,$20250.72
+Lind,Paradyce,AZ,Administrative Assistant IV,$27136.27,15,618,36,M,$131810.70,3.1,479.44,$35265.00
+Retha,Dach,AZ,VP Accounting,$31883.78,27,459,32,F,$212644.87,3.7,6355.37,$22439.74
+Sean,Bewicke,OH,Structural Engineer,$47108.46,4,769,26,F,$161627.77,2.9,2131.6,$31177.61
+Chane,Huortic,AL,Project Manager,$29665.51,14,781,71,M,$40834.04,3.2,7301.61,$18359.04
+Sherwin,Whieldon,FL,Mechanical Systems Engineer,$55527.48,3,445,18,M,$371066.34,2.8,2755.33,$11677.63
+Kelwin,Crudginton,FL,Research Assistant II,$27845.10,21,422,63,M,$348001.60,2.6,1645.53,$14315.12
+Tamar,Verna,NC,Project Manager,$29984.20,9,615,71,F,$148588.65,3.7,6116.06,$42747.16
+Gregory,Cantua,CT,Software Consultant,$46231.82,8,748,82,M,$16765.60,3.9,3105.2,$39248.32
+Franciskus,Crosseland,TX,VP Sales,$35759.08,5,594,59,M,$8443.64,3.2,4618.06,$48359.67
+Gerome,Kopisch,CA,VP Sales,$35072.48,1,475,70,M,$387459.66,3.6,-729.49,$20408.10
+Robenia,Battershall,CA,Financial Advisor,$37487.89,19,464,74,F,$467878.74,3.3,677.9,$61563.00
+Carlina,Riach,FL,Office Assistant IV,$33410.85,19,459,42,F,$194775.97,2.8,674.88,$41614.72
+Cyndi,Sleicht,FL,VP Marketing,$52126.21,6,352,67,F,$91107.79,3.0,5991.72,$27533.37
+Tabor,Minto,FL,Speech Pathologist,$40049.06,28,593,67,M,$10521.86,3.1,8722.49,$11366.65
+Therine,Oliphant,IL,Health Coach IV,$36018.26,21,533,45,F,$247942.60,3.0,1127.9,$17722.18
+Myrna,Hawker,WA,Human Resources Assistant I,$49204.39,4,836,20,F,$488511.53,3.9,9153.34,$4245.78
+Minta,Matuszkiewicz,OR,Director of Sales,$46410.57,28,639,50,F,$470689.54,3.1,5395.3,$71802.70
+Antons,Warland,KS,VP Product Management,$59928.40,25,454,32,M,$347909.52,2.9,3890.96,$8479.74
+Heinrick,Bloom,OH,GIS Technical Architect,$41403.67,9,724,36,M,$337675.03,2.5,113.32,$56260.77
+Linzy,Ormes,DC,Payment Adjustment Coordinator,$35606.43,8,532,74,F,$92261.03,3.7,-920.93,$28516.46
+Windy,Pyer,FL,Senior Developer,$48209.74,3,415,83,F,$18627.67,2.7,1185.64,$38836.64
+Eugine,Titchard,AZ,Environmental Tech,$51275.80,8,736,76,F,$139509.99,3.6,6122.14,$34597.42
+Winne,Finley,KS,Help Desk Technician,$48773.28,15,738,64,F,$402416.76,3.5,8999.21,$67986.55
+Heida,Frake,IL,Nurse,$35596.84,25,802,64,F,$101547.00,3.7,5693.63,$69923.07
+Roselle,Coraini,OH,Clinical Specialist,$32803.64,19,397,45,F,$229002.53,3.6,3732.19,$52690.43
+Camel,Nangle,NY,Electrical Engineer,$40087.40,6,422,45,F,$105706.94,3.8,2427.55,$37900.89
+Harlene,Scandrite,NY,Account Representative IV,$46142.14,20,553,22,F,$325851.40,2.8,-43.07,$37149.76
+Luciano,Waldren,NY,Programmer Analyst II,$34351.11,12,549,82,M,$185331.45,3.4,7566.82,$61604.74
+Cornie,Sowten,NY,Account Coordinator,$35038.17,20,735,70,F,$154699.22,3.4,6587.07,$51491.28
+Lorant,Shambroke,VA,Accounting Assistant III,$50848.87,16,728,25,M,$491309.79,3.8,8699.96,$70420.94
+Anna,Cinavas,NY,Sales Associate,$52368.03,7,398,44,F,$418882.60,2.6,1295.19,$30787.90
+Gladi,Seefeldt,VA,Administrative Assistant I,$49998.04,23,639,27,F,$281.75,3.1,1524.53,$32481.15
+Thorvald,Fruish,MO,Environmental Tech,$58249.31,3,397,32,M,$437560.25,3.4,7033.57,$11058.65
+Fionna,Kalf,CA,Pharmacist,$37050.84,27,844,31,F,$243368.21,3.6,3861.04,$60957.62
+Annelise,De Luna,LA,Data Coordiator,$38272.66,21,719,78,F,$143572.94,3.5,7881.96,$50426.15
+Rosamond,Comini,VA,Technical Writer,$30413.72,3,566,64,F,$59934.43,2.9,3359.61,$235.29
+Cristin,Symon,CA,Senior Editor,$53879.52,10,495,38,F,$444027.40,3.7,7722.27,$46040.66
+Burnaby,McGarrahan,FL,Junior Executive,$31526.64,27,743,26,M,$85623.61,3.8,693.4,$9634.67
+Fernande,Trett,OK,Pharmacist,$48295.75,21,805,28,F,$230638.11,3.7,4323.59,$16126.35
+Ken,Gardiner,TN,Software Consultant,$31810.28,24,495,40,M,$450389.62,3.1,3165.96,$10555.30
+Peyton,Hubach,TX,Information Systems Manager,$33247.35,21,743,65,M,$306129.68,3.9,2190.99,$387.64
+Dickie,Liggett,MD,Community Outreach Specialist,$37726.79,18,530,77,M,$20301.30,2.7,3784.29,$56258.86
+Alice,Vivash,KY,Junior Executive,$46255.83,29,402,70,F,$446074.74,2.8,-356.14,$58937.87
+Dorolice,Straw,OH,Software Consultant,$32597.27,17,511,36,F,$420725.02,3.5,512.87,$64761.47
+Goober,Lovering,DC,Analog Circuit Design manager,$36624.18,18,422,49,M,$286003.94,2.7,9008.43,$20022.99
+Elliott,Learmonth,MD,Design Engineer,$46036.86,9,773,25,M,$294735.44,3.0,8003.94,$5079.40
+Zollie,Dymocke,DC,Clinical Specialist,$33769.41,21,668,54,M,$74266.36,3.1,4893.53,$67949.47
+Eartha,Parrington,OR,Nurse Practicioner,$45663.10,2,693,19,F,$488700.31,3.9,6147.06,$13651.50
+Julita,Duckhouse,GA,Biostatistician III,$49112.63,25,629,40,F,$288635.07,3.0,5257.34,$29802.65
+Woodrow,Wooller,CA,Associate Professor,$57887.76,17,583,36,M,$275203.01,2.8,7281.3,$25078.30
+Dayna,Pogg,AZ,Senior Editor,$36347.18,11,465,48,F,$350953.89,2.9,-868.89,$47572.32
+Kaine,Aronson,CA,Compensation Analyst,$33978.16,5,416,29,M,$23995.41,3.6,631.51,$37524.81
+Jeffie,Verralls,AL,Technical Writer,$52007.81,25,596,72,M,$274815.80,4.0,8693.54,$61377.29
+Lucine,Skirrow,NC,Senior Sales Associate,$59858.86,23,516,21,F,$141489.62,3.1,882.63,$28719.79
+Melloney,Sictornes,NY,Safety Technician III,$56871.88,5,692,79,F,$180247.49,2.8,8955.78,$57698.79
+Dar,Spedding,TX,Executive Secretary,$55381.86,23,440,58,M,$379892.81,3.2,5113.61,$44451.53
+Amalita,Riddock,MA,Tax Accountant,$52878.24,29,367,78,F,$247330.14,2.6,2931.25,$73552.04
+Livvy,Guidetti,IL,Associate Professor,$59122.13,3,643,56,F,$277709.79,3.8,8935.21,$7070.40
+Vladamir,Sheehan,AL,Computer Systems Analyst III,$52141.65,22,573,32,M,$455065.42,2.8,1657.26,$30481.74
+Gerhardine,Canny,FL,Data Coordiator,$36377.83,7,543,72,F,$173186.41,3.2,9376.62,$4228.33
+Eward,Liveley,CA,Environmental Tech,$26560.98,28,503,71,M,$206636.35,2.9,2825.31,$35541.77
+Carolynn,Mannock,MI,Social Worker,$29520.04,10,432,28,F,$226373.87,3.7,-218.94,$41753.36
+Ursola,Carff,MO,Analyst Programmer,$37929.07,18,765,32,F,$84604.64,2.9,-776.09,$57067.77
+Maire,Fouracre,TN,Data Coordiator,$58643.16,20,430,68,F,$88348.72,3.0,9097.78,$14477.90
+Merrile,Clancey,MN,Nurse,$44890.15,6,834,42,F,$424265.54,2.5,5131.33,$33113.11
+Murray,Noe,WA,Graphic Designer,$27380.33,10,726,66,M,$113969.65,2.6,4413.82,$6392.26
+Karl,Kippin,PA,Biostatistician I,$58975.68,7,505,68,M,$454503.55,3.1,1856.99,$12713.70
+Nellie,Belitz,OH,Operator,$55871.54,22,725,43,F,$54533.44,3.7,1901.51,$39753.84
+Clarita,Besson,CA,Civil Engineer,$37859.24,6,768,68,F,$197370.04,3.8,309.53,$27337.15
+Austin,Perone,TX,VP Quality Control,$32470.45,11,574,83,M,$348039.44,2.8,1732.97,$34891.81
+Yale,Oddie,OK,Quality Control Specialist,$34498.48,8,427,51,M,$387903.59,3.0,8046.92,$46379.68
+Kate,Grindley,NC,Account Executive,$27561.53,17,487,42,F,$386027.33,2.9,294.07,$14437.75
+Stephana,Mulgrew,CA,Web Designer I,$33584.85,11,473,28,F,$437470.99,3.3,2397.68,$61506.89
+Tasha,Moggle,TX,Product Engineer,$48886.02,15,466,71,F,$462422.00,2.7,8088.15,$61822.58
+Ahmed,Caughey,PA,Office Assistant I,$49380.06,11,531,33,M,$464014.96,2.8,6462.02,$2297.83
+Sherwin,Guard,AL,Quality Control Specialist,$43172.40,4,413,81,M,$5189.93,3.8,2972.67,$21603.63
+Carilyn,Fullman,FL,Office Assistant III,$51119.05,29,629,46,F,$217625.08,3.3,6333.77,$71576.37
+Sherilyn,Muirhead,AR,Sales Associate,$41446.03,17,633,53,F,$69562.13,3.4,2248.85,$68388.90
+Tarrah,Larkkem,FL,Safety Technician I,$56571.91,19,795,40,F,$260249.77,2.7,5136.74,$6044.19
+Gregg,Squelch,OR,Quality Engineer,$31280.19,1,361,72,M,$382885.15,3.7,9757.05,$47838.04
+Felicia,Lorain,OH,Data Coordiator,$51326.78,18,826,37,F,$96818.46,3.7,4617.83,$54257.11
+Aile,Stubbs,TX,Environmental Specialist,$50879.08,16,354,80,F,$14970.80,2.5,8289.3,$32558.25
+Lorilee,Sibbering,TX,Librarian,$30043.62,4,668,65,F,$436247.72,3.2,2262.45,$14725.44
+Chaddie,Gaskell,NY,VP Sales,$47597.74,3,523,48,M,$49990.24,3.8,3926.27,$63604.93
+Arlen,Arendt,MD,Community Outreach Specialist,$27290.38,25,631,78,F,$444062.78,2.6,6167.0,$66464.00
+Delainey,McNeice,AL,Actuary,$32709.57,8,665,45,M,$422359.27,2.8,6523.49,$28.19
+Thorn,Haeslier,TX,Senior Editor,$56776.44,16,590,59,M,$326584.35,2.9,6351.94,$54768.00
+Edee,Chasen,AL,Web Developer II,$47391.62,23,839,70,F,$7409.72,2.6,1718.21,$47965.94
+Betta,Thexton,CA,Account Executive,$51859.62,3,507,18,F,$218466.14,2.6,1674.2,$58954.17
+Margarita,Paule,NY,Automation Specialist I,$26757.44,13,539,62,F,$245377.54,3.8,2113.99,$70384.61
+Dniren,Feavearyear,TN,VP Product Management,$32712.98,25,828,79,F,$358946.14,2.9,6908.94,$17378.21
+Junie,McCahey,DC,Structural Engineer,$51579.81,11,572,25,F,$373585.94,3.0,-542.69,$60581.06
+Sheilakathryn,Bellingham,KS,Structural Analysis Engineer,$49760.21,3,795,23,F,$82570.79,3.6,7441.37,$53239.52
+Dyna,Cawthra,MN,Nurse Practicioner,$29577.25,16,353,36,F,$101349.84,3.0,9347.84,$54852.34
+Miguelita,Penwright,VA,Human Resources Manager,$50673.81,14,398,61,F,$199187.22,3.1,1274.49,$42774.84
+Skyler,Valero,OK,Human Resources Assistant I,$53675.64,14,588,30,M,$119972.70,2.7,7601.66,$19486.59
+Gaultiero,Ellens,FL,Health Coach III,$26507.86,25,677,70,M,$217678.22,3.5,6214.72,$66586.74
+Uri,Timewell,CA,Account Executive,$45989.55,18,821,58,M,$12788.34,4.0,6162.5,$28358.59
+Tessy,Harsant,CA,Senior Sales Associate,$50404.41,8,674,23,F,$346530.03,2.9,3940.27,$42759.85
+Misha,Codling,FL,Staff Scientist,$37874.95,1,432,64,F,$130550.00,3.1,7948.69,$56060.61
+Johnathon,Fallow,SD,Office Assistant II,$39132.64,26,555,58,M,$103978.31,3.1,6339.24,$35699.51
+Doll,Streetley,PA,Geologist IV,$29368.73,28,458,71,F,$77691.98,3.8,786.17,$66962.69
+Alejandro,Dawid,MS,Teacher,$40159.15,1,519,34,M,$36213.27,3.5,1810.12,$15603.10
+Lanita,Juschke,CO,Librarian,$36901.03,22,490,76,F,$211802.31,3.0,6949.39,$53433.09
+Tedie,O'Donoghue,WV,VP Product Management,$26753.18,21,850,41,M,$279356.53,3.6,6334.0,$71107.42
+Trixi,Tatton,FL,Clinical Specialist,$34283.22,21,820,29,F,$48303.95,2.7,9876.32,$68765.81
+Gasper,Colmer,MO,Senior Developer,$56728.40,17,412,74,M,$450881.11,2.9,6777.06,$70592.06
+Gerek,Deppen,OK,Technical Writer,$37051.72,26,754,40,M,$101095.57,3.2,4814.63,$17075.87
+Wilt,Yakubov,TX,Electrical Engineer,$32457.44,27,730,63,M,$211302.44,3.1,505.54,$11420.09
+Garey,Carragher,IN,Accounting Assistant I,$45412.89,11,385,73,M,$96308.17,3.3,-282.41,$11524.84
+Barri,Pelzer,AL,Senior Cost Accountant,$38596.63,26,748,31,M,$400891.23,3.2,8758.27,$5507.10
+Ange,Iskower,TX,Budget/Accounting Analyst III,$26995.49,1,703,85,F,$446109.42,3.4,3651.79,$32751.77
+Devlen,Whawell,PA,VP Sales,$52752.49,23,824,41,M,$117953.62,3.4,3455.69,$13858.99
+Carola,Cakebread,DE,Nuclear Power Engineer,$38699.35,12,608,35,F,$410145.95,3.1,866.08,$54066.03
+Darryl,Keay,WA,Developer III,$46150.57,19,652,18,M,$276341.39,2.8,8573.57,$67464.64
+Roda,Pietruschka,VA,Accounting Assistant II,$48013.76,25,657,41,F,$419819.16,2.5,-100.13,$71583.27
+Hansiain,Piggford,NY,Help Desk Operator,$39358.48,13,604,48,M,$141499.52,2.8,2326.5,$61088.43
+Horten,Jammes,KS,Administrative Assistant III,$37472.55,6,550,23,M,$130226.21,3.9,-943.38,$38899.07
+Eziechiele,Wilkisson,OH,Food Chemist,$52452.95,4,441,79,M,$455122.36,4.0,9054.88,$71399.83
+Sydney,Cranna,VA,VP Marketing,$28183.48,18,743,79,F,$340368.04,3.8,9941.55,$54630.98
+Leigh,Banting,PA,Business Systems Development Analyst,$49975.79,6,629,74,M,$411420.93,2.9,4752.93,$63762.21
+Spenser,Pennicard,GA,Physical Therapy Assistant,$52784.11,25,659,84,M,$399092.78,2.6,8101.06,$48764.01
+Gisele,Gundry,CA,Business Systems Development Analyst,$58619.99,5,538,52,F,$483404.78,2.6,4770.22,$2270.88
+Reinaldo,Wincer,MN,Environmental Specialist,$39188.44,25,471,55,M,$122883.36,2.9,4285.47,$68640.39
+Beck,Roo,MD,Compensation Analyst,$41504.53,22,807,77,M,$245093.22,3.0,-207.19,$52133.74
+Walker,Bradneck,MI,Environmental Specialist,$44432.59,5,460,70,M,$131895.31,3.9,2119.37,$74015.20
+Marsh,Kettlesing,TX,Sales Representative,$57133.05,4,708,40,M,$92560.41,2.7,3756.74,$68533.58
+Hestia,Branwhite,CA,Occupational Therapist,$33536.93,14,781,53,F,$310560.53,3.1,9403.04,$71080.85
+Jerrome,Thiolier,TX,Community Outreach Specialist,$37704.53,27,494,34,M,$255856.62,3.7,5253.83,$35091.70
+Tarrah,Egerton,DC,Chief Design Engineer,$27593.97,2,837,59,F,$264342.84,3.1,8394.61,$47506.91
+Roch,Papaccio,TX,VP Marketing,$35758.84,14,728,21,F,$164664.80,3.3,8615.32,$55364.92
+Arlie,Lympenie,OK,Accountant IV,$41481.86,10,614,53,F,$297608.62,3.2,9764.81,$30700.23
+Prinz,Witham,FL,Geologist II,$50164.72,19,835,75,M,$125077.74,2.9,8648.23,$61590.34
+Nancy,Chsteney,IL,VP Product Management,$56948.08,8,819,24,F,$416598.80,3.8,1228.33,$19802.69
+Moselle,Antoney,OH,Account Representative II,$47168.06,4,671,27,F,$373084.53,3.1,3416.63,$11002.69
+Sanford,Battersby,DE,Speech Pathologist,$28943.18,28,686,31,M,$437415.80,3.9,4401.07,$68830.41
+Gennie,Lebel,LA,Marketing Assistant,$36581.37,16,470,20,F,$260873.92,3.2,9652.76,$50797.74
+Tawnya,Foucher,CA,Accounting Assistant I,$41371.29,10,530,82,F,$436548.01,3.3,2545.39,$31035.28
+Fabe,Bucky,PA,Chemical Engineer,$59897.46,26,810,20,M,$95997.10,2.9,9506.5,$54018.34
+Berkley,Dowdney,MO,Actuary,$45552.32,15,818,22,M,$364955.81,3.9,7095.05,$27606.58
+Lacee,Bewshire,TX,Compensation Analyst,$43427.59,23,613,31,F,$245048.60,3.8,4425.12,$64517.97
+Megan,Cornfoot,WV,Web Developer IV,$59559.85,6,485,21,F,$339792.12,3.6,73.67,$34743.15
+Stevana,Fearnsides,MO,Quality Engineer,$28940.29,19,385,40,F,$410422.02,2.5,8835.94,$68674.09
+Nicoline,Croshaw,PA,Systems Administrator I,$57512.28,24,463,19,F,$451212.42,3.8,2278.64,$58953.52
+Zara,Conti,IN,General Manager,$27916.73,1,849,18,F,$71421.06,2.8,7245.6,$20450.89
+Paco,Haswell,FL,Junior Executive,$50422.13,3,835,64,M,$218116.21,3.8,6139.48,$35588.33
+Clevey,Graveston,OH,Software Engineer III,$32078.30,26,608,58,M,$18035.16,3.9,2321.03,$662.46
+Pate,Ollin,CA,Graphic Designer,$38162.01,1,551,72,M,$33408.23,2.7,-703.2,$4771.23
+Ethelin,Ansty,TN,Social Worker,$41575.21,9,412,76,F,$478420.54,2.9,4452.9,$69514.20
+Ellerey,Whiteland,CA,Web Developer I,$59322.68,3,626,47,M,$391270.12,3.7,2080.38,$51780.18
+Marta,Shakle,SD,Compensation Analyst,$26648.67,19,427,20,F,$60401.22,3.5,1900.97,$19223.04
+Ravi,Saldler,NY,Operator,$28570.10,8,493,38,M,$93795.82,3.5,1999.95,$5838.48
+Connor,Braybrookes,CO,Account Representative IV,$40513.02,13,603,69,M,$318813.57,3.6,9448.64,$38985.44
+Delinda,Olifard,GA,Associate Professor,$56557.61,5,651,23,F,$6316.34,3.5,3508.75,$72352.62
+Leonora,Gommey,IL,Sales Representative,$58351.28,12,525,58,F,$113519.06,3.6,4816.55,$33198.90
+Salomone,Elsmore,FL,Project Manager,$58069.53,23,415,35,M,$407320.94,2.7,4618.52,$73365.70
+Tulley,Beswetherick,FL,Payment Adjustment Coordinator,$41526.80,17,486,68,M,$15522.48,2.6,144.05,$28944.28
+Arnuad,Heliet,TX,Geologist II,$26813.37,24,554,25,M,$55867.43,3.7,6232.43,$8468.53
+Karola,Dadds,OR,Sales Representative,$29425.56,28,721,40,F,$298218.24,3.6,8390.37,$37155.96
+Lyn,Sherington,NC,Research Associate,$54725.21,27,501,29,F,$327963.01,3.7,336.38,$23861.26
+Washington,Gilchrist,UT,Database Administrator IV,$30754.82,14,833,37,M,$492095.18,3.5,6436.17,$25779.95
+Maurice,Diffley,MO,Community Outreach Specialist,$56088.40,10,673,70,M,$13771.19,3.1,8256.51,$68611.30
+Berty,Avrashin,CO,Automation Specialist I,$46086.16,25,847,36,F,$49432.03,4.0,4955.48,$65264.75
+Hertha,Casper,CA,VP Sales,$42127.14,15,498,53,F,$281813.56,3.3,-204.26,$1501.85
+Alia,Dybald,TX,Software Test Engineer I,$51130.56,13,534,74,F,$190678.04,3.6,6031.47,$26936.83
+Dame,Busson,LA,Operator,$51786.43,15,501,73,M,$441007.82,3.8,9028.23,$31926.58
+Ellery,Nys,MI,Administrative Assistant II,$32740.48,5,784,45,M,$148886.54,3.3,6814.49,$47530.32
+Jasen,Delafoy,CA,Statistician IV,$29271.05,30,593,26,M,$165065.48,3.1,762.06,$29175.28
+Nomi,Najafian,CA,Nuclear Power Engineer,$56640.83,21,822,36,F,$669.68,3.7,8915.11,$3982.82
+Balduin,Allanby,FL,Civil Engineer,$56660.99,3,441,72,M,$281353.20,2.7,3225.15,$52907.51
+Xenia,Povey,TX,Staff Accountant III,$31461.57,12,756,67,F,$426537.18,3.5,5848.34,$28268.86
+Chico,Parrott,FL,Staff Scientist,$52326.07,4,785,35,M,$66940.82,3.4,-867.42,$19228.12
+Scarface,Casserley,CA,Product Engineer,$28142.40,17,600,56,M,$332503.53,2.5,9963.18,$10541.81
+Timofei,Esch,FL,Office Assistant III,$32792.61,1,503,35,M,$412755.90,3.1,5948.42,$15002.68
+Niall,Bonass,OK,Systems Administrator I,$45398.86,27,656,53,M,$116523.95,2.9,9334.73,$10804.03
+Wilbur,Guerrin,AL,Web Developer II,$43236.67,8,610,29,M,$418705.04,3.0,9824.13,$24280.16
+Nert,Deporte,FL,Office Assistant III,$55464.49,1,689,18,F,$264864.88,3.4,1622.74,$23236.28
+Gearard,Donnellan,IN,Paralegal,$35215.02,26,515,76,M,$334975.20,2.6,6014.77,$38851.93
+Doug,Hopfer,DC,Food Chemist,$54843.13,3,745,55,M,$120657.65,2.7,8000.9,$18868.63
+Killie,Killock,NY,Professor,$53750.90,23,837,70,M,$5172.69,3.6,8236.26,$3999.02
+Stefano,Mainland,AZ,Assistant Professor,$59293.47,6,692,50,M,$229105.84,3.3,3291.13,$63889.74
+Angy,Beamish,LA,Nuclear Power Engineer,$28792.47,3,382,66,F,$309736.15,3.1,794.78,$3767.30
+Rice,Bridie,CA,Nurse,$31477.60,25,450,69,M,$52171.75,3.3,2828.98,$53777.99
+Sibby,Inge,FL,Programmer I,$33584.97,28,726,32,F,$33021.73,2.5,2455.49,$59598.06
+Tootsie,Lamberti,TN,Geological Engineer,$54790.86,26,728,77,F,$281863.04,3.6,8924.5,$57727.24
+Barbi,Bramford,NC,Help Desk Operator,$55922.39,23,734,25,F,$399135.70,3.6,-827.95,$56683.23
+Chev,Voce,WY,Nuclear Power Engineer,$40679.66,16,695,74,M,$27955.38,2.6,7263.29,$46087.29
+Cathrin,Fullylove,MN,Paralegal,$28373.46,11,469,56,F,$459867.65,3.2,3969.99,$43502.49
+Gipsy,Greenin,WI,Sales Associate,$36889.33,22,761,46,F,$404086.59,3.5,1414.86,$63573.15
+Mace,Portwain,IN,Registered Nurse,$27638.96,4,546,29,M,$451475.60,3.4,3889.49,$52726.75
+Cammy,Lindemann,VA,Recruiting Manager,$37244.74,9,529,23,F,$137446.09,3.8,1300.21,$437.54
+Henriette,Serrell,CA,Human Resources Manager,$50390.35,10,796,24,F,$255280.72,3.7,-113.56,$10194.45
+Arny,Buff,FL,Information Systems Manager,$33940.96,11,581,19,M,$463440.76,3.4,8123.69,$52436.46
+Bancroft,Bransby,IL,Food Chemist,$36694.32,9,527,27,M,$371374.52,3.5,2520.43,$60810.48
+Weider,Mealand,LA,Research Nurse,$35082.33,29,609,33,M,$128582.54,3.2,9497.66,$25240.30
+Sorcha,Esposita,IN,Product Engineer,$47875.17,10,647,28,F,$249704.91,3.1,-342.05,$4548.97
+Lenci,Gully,PA,Statistician III,$50656.82,2,634,50,M,$474455.60,2.9,7934.98,$65327.15
+Agatha,Hannaford,VA,Administrative Officer,$48633.34,13,713,21,F,$258730.83,2.6,-370.99,$7739.91
+Wilmette,Coathup,TX,Librarian,$58276.92,29,358,29,F,$290920.11,3.4,2967.83,$12423.96
+Rozalin,Sitwell,FL,Recruiting Manager,$33088.01,28,615,81,F,$481538.23,3.5,9340.28,$14526.30
+Sydney,Bruineman,AR,Computer Systems Analyst III,$49410.30,3,663,40,M,$26970.50,3.7,2677.35,$61572.78
+Eugenius,Flatt,CT,Recruiter,$33432.87,1,534,36,M,$184472.17,3.1,9094.57,$13264.79
+Denver,Winram,NM,Professor,$36722.54,2,623,60,M,$175180.39,3.6,6662.92,$25497.16
+Joshia,Fritche,VA,Analyst Programmer,$58893.86,22,673,80,M,$232830.84,3.6,2521.0,$69588.08
+Eldon,Mobley,FL,Associate Professor,$38816.26,27,592,47,M,$333350.15,2.7,3618.03,$44915.38
+Anselma,Ginglell,TN,Account Representative III,$34061.13,10,396,24,F,$56319.42,3.5,4847.6,$14204.60
+Norby,McAneny,MN,Technical Writer,$44417.09,23,557,51,M,$166810.15,3.4,480.63,$17838.55
+Vern,Blincoe,TN,Geological Engineer,$57879.08,11,485,50,M,$421583.47,3.0,9146.69,$25459.86
+Kara-lynn,Cornes,TX,Analog Circuit Design manager,$39866.68,13,453,65,F,$247656.21,2.7,425.95,$16645.26
+Rubie,Mackett,AR,Graphic Designer,$41786.25,16,543,67,F,$69224.74,3.6,6693.8,$48110.37
+Weston,Harborow,RI,Cost Accountant,$35452.23,30,508,23,M,$191032.18,3.2,9997.37,$20757.27
+Torin,Lambert-Ciorwyn,CA,Dental Hygienist,$26970.09,30,784,19,M,$157542.82,3.1,6731.95,$20164.03
+Chet,Cruce,SC,Actuary,$27350.60,7,485,56,M,$31452.29,3.1,2109.15,$35902.38
+Nani,Tween,GA,Sales Associate,$59524.69,24,451,34,F,$20206.37,2.8,8432.9,$34498.44
+Nikolas,Simes,FL,Automation Specialist III,$46735.36,25,542,70,M,$384796.87,2.8,9382.51,$47748.71
+Truda,Firle,WA,Tax Accountant,$56669.60,12,458,36,F,$219604.29,2.7,4388.64,$57135.53
+Sherlocke,Thirlaway,MO,Recruiting Manager,$37241.21,2,400,45,M,$439757.68,4.0,-855.67,$34005.26
+Sidnee,Wadman,CO,Operator,$27591.96,20,677,27,M,$395260.02,3.1,4030.8,$36646.33
+Madonna,Finby,ID,Cost Accountant,$32568.24,15,444,34,F,$475989.45,3.7,7527.32,$58800.26
+Lind,Stanlock,TX,Librarian,$39590.19,7,599,55,F,$135890.68,3.7,8042.79,$68.03
+Wylma,Pfaffel,OH,Sales Associate,$28934.31,13,785,78,F,$143705.29,3.8,6667.64,$31412.98
+Nerty,Sisse,TX,Legal Assistant,$26727.56,24,547,57,F,$367442.03,3.5,4900.75,$2509.46
+Ingaborg,Larway,PA,Assistant Media Planner,$32818.51,19,693,54,F,$201713.54,3.2,1854.04,$14039.06
+Beilul,Gude,AZ,Account Coordinator,$42628.12,30,602,42,F,$130230.90,3.3,3296.72,$3092.51
+Nollie,Petracco,SC,Administrative Officer,$46324.25,15,652,47,M,$292747.39,2.8,1962.23,$70587.33
+Fin,Dancer,IN,Software Consultant,$41503.43,8,474,30,M,$426478.65,2.7,1705.14,$45879.49
+Lorelle,Veasey,VA,Statistician II,$54293.29,9,471,59,F,$153776.65,2.8,740.06,$68753.84
+Keelia,Blessed,NJ,Recruiter,$30858.20,18,842,47,F,$402034.65,3.8,8632.41,$9280.74
+Scarface,Benitez,KS,Nurse Practicioner,$37330.31,16,841,19,M,$470236.17,3.7,1773.78,$21336.34
+Jaime,Yakovich,MT,Software Consultant,$47037.61,1,528,28,M,$83669.15,2.8,9194.31,$37283.96
+Zackariah,Longfellow,VA,Nurse Practicioner,$53160.43,5,437,35,M,$7227.49,2.9,3243.27,$58987.19
+Imelda,Yukhtin,AZ,Statistician III,$53672.54,27,833,38,F,$282379.85,2.8,-251.37,$40162.15
+Vanni,McDill,VA,Assistant Professor,$39304.01,3,700,26,F,$358001.67,3.6,5843.96,$30043.74
+Stearne,Wipfler,SD,Structural Analysis Engineer,$54969.36,27,764,62,M,$71535.00,3.5,8517.77,$8739.94
+Claribel,Legat,CA,Mechanical Systems Engineer,$59927.69,20,743,85,F,$294862.80,3.1,3607.76,$72163.89
+Far,Mularkey,NJ,Media Manager IV,$43743.67,29,619,65,M,$227856.92,3.1,3253.53,$32744.46
+Thomas,Musterd,IL,Research Assistant IV,$28065.59,29,727,54,M,$287249.19,3.1,8224.53,$16851.76
+Lionel,Yakuntsov,WA,Developer III,$40215.38,29,644,80,M,$248285.71,4.0,882.74,$29020.39
+Wilhelmina,Nevins,NC,Computer Systems Analyst IV,$31407.51,9,570,55,F,$120897.32,3.1,5952.8,$32377.20
+Vinny,Chezelle,OK,Social Worker,$34713.65,8,818,50,M,$222769.50,2.8,628.45,$18783.97
+Arluene,Godmar,TX,Account Representative I,$58041.07,16,604,75,F,$331067.79,3.3,7637.82,$7862.90
+Jessi,Yarmouth,NC,Editor,$53701.07,18,360,49,F,$494960.74,3.1,5549.92,$71546.83
+Lee,Pollicott,CA,Senior Cost Accountant,$32170.32,1,490,39,M,$327391.71,2.6,1357.22,$30071.79
+Julie,Leyton,CA,Human Resources Manager,$50010.75,18,826,72,M,$219488.85,3.1,5201.18,$4475.94
+Rea,Hutchcraft,GA,Staff Accountant IV,$54268.79,10,780,19,F,$317021.94,3.6,2107.06,$33770.14
+Carolann,Bonniface,LA,Programmer IV,$33678.33,10,736,47,F,$135243.79,3.5,1951.54,$60306.74
+Candace,Chrestien,TX,Payment Adjustment Coordinator,$50334.56,10,636,74,F,$367831.20,3.1,8886.68,$23937.26
+Cate,Dorsett,KY,Geological Engineer,$42848.53,7,626,82,F,$35058.23,2.6,763.74,$40815.56
+Theodore,Barenskie,DC,Financial Advisor,$42073.79,13,507,69,M,$113448.43,2.5,7774.44,$24171.74
+Bernie,Kelner,TN,Information Systems Manager,$49017.81,9,757,78,F,$101279.66,3.5,1001.69,$23357.65
+Vidovik,Hucquart,SC,Account Executive,$29477.54,26,806,23,M,$154159.91,3.6,2651.79,$51544.76
+Raymund,Ryott,NC,Nurse,$31714.08,29,433,54,M,$180884.79,3.7,-430.24,$49203.43
+Iorgo,Helstrom,WI,Physical Therapy Assistant,$35281.47,23,463,55,M,$133502.68,3.2,773.85,$59412.22
+Felecia,Oldham,TX,Senior Financial Analyst,$57541.76,28,372,40,F,$72672.66,3.3,5644.31,$60961.15
+Vernice,Busk,MT,Analyst Programmer,$44569.84,27,674,68,F,$475692.68,3.9,3450.6,$66720.21
+Chalmers,Arnout,CA,Software Test Engineer I,$38231.94,24,570,72,M,$334792.95,3.8,8621.04,$56985.21
+Aili,Marron,TX,Developer I,$36403.71,9,834,52,F,$211558.62,3.1,8292.7,$39679.76
+Gaye,Hartfleet,NY,Nuclear Power Engineer,$30037.60,9,488,73,F,$120131.75,2.9,154.17,$8424.39
+Garrot,Mager,AZ,Clinical Specialist,$56362.95,20,471,27,M,$432004.43,3.2,3374.47,$69778.20
+Raphaela,Fitzjohn,TX,Administrative Officer,$33634.29,8,434,53,F,$35980.36,2.9,4169.87,$33028.41
+Francis,Pinchback,MO,Data Coordiator,$33380.31,13,721,45,M,$88403.98,3.8,3774.56,$31031.99
+Montgomery,Leith,TX,Structural Engineer,$55000.34,4,679,74,M,$334781.36,3.8,4952.66,$51784.66
+Archaimbaud,Rioch,CA,Sales Representative,$47685.07,6,369,38,M,$92662.10,2.9,6321.82,$553.00
+Fidole,Pursey,MS,Cost Accountant,$38435.75,20,584,39,M,$77686.44,3.8,9666.82,$21550.44
+Tabbi,Harsum,NY,VP Accounting,$35522.64,14,531,81,F,$47239.98,3.3,4807.86,$2363.94
+Augusto,Curry,CA,Product Engineer,$37510.69,5,741,54,M,$157050.76,2.7,290.66,$54043.10
+Boonie,Santello,NC,Clinical Specialist,$34173.64,11,786,18,M,$183779.46,3.0,6295.36,$27385.55
+Meghann,Larner,FL,Chemical Engineer,$49884.63,28,694,33,F,$327296.16,2.6,5993.46,$60794.05
+Melli,Flanaghan,OH,Nurse Practicioner,$40085.74,2,430,83,F,$331687.59,3.6,8312.23,$12296.13
+Lacie,Coye,IL,Product Engineer,$46333.59,9,667,78,F,$258453.37,2.8,3573.43,$51290.98
+Jonis,Bownde,OH,Safety Technician IV,$43693.28,15,519,56,F,$259285.03,2.5,1010.5,$59870.59
+Leeland,Prin,FL,Chemical Engineer,$56572.02,7,467,79,M,$116110.33,2.7,49.35,$32033.40
+Benedikt,O'Dowd,NY,Payment Adjustment Coordinator,$47643.83,17,837,44,M,$282097.52,2.9,3319.06,$10653.75
+Gwenette,Drees,AL,Marketing Assistant,$50057.74,25,793,34,F,$112839.78,2.6,6097.23,$60818.14
+Kyle,O'Clery,NC,Marketing Assistant,$29747.64,26,534,32,F,$193874.30,3.3,6898.71,$44028.80
+Nicolle,Giddy,IL,Human Resources Assistant IV,$48102.30,2,477,84,F,$36850.05,2.7,-671.68,$46446.86
+Lenard,Heakey,LA,Quality Engineer,$26769.15,28,423,73,M,$180076.24,3.3,811.39,$73358.33
+Inna,Paolone,CA,Occupational Therapist,$27077.05,13,492,48,F,$242123.35,2.9,9258.43,$47348.10
+Martyn,Ozelton,TX,VP Sales,$39709.15,25,362,24,M,$390780.39,3.8,4121.08,$57732.00
+Nickie,Bricklebank,AZ,Tax Accountant,$54836.21,18,388,70,M,$460741.76,2.7,9898.51,$1410.82
+Bob,Sculley,CT,Safety Technician I,$30391.93,15,616,28,M,$466804.36,3.6,5642.92,$44728.97
+Nance,Harlin,VA,Environmental Specialist,$46846.01,12,749,65,F,$139914.62,3.1,7487.47,$38112.95
+Hart,Murney,AL,VP Quality Control,$38709.85,21,507,67,M,$26.77,3.6,141.27,$26883.83
+Noah,Iddison,AL,Dental Hygienist,$53080.70,24,375,24,M,$281104.12,3.3,9875.84,$18682.39
+Arte,Shervington,SD,Cost Accountant,$33878.91,3,394,46,M,$381992.97,3.9,1692.49,$19772.74
+Dannel,Hornbuckle,TX,Analyst Programmer,$49647.33,28,653,45,M,$498000.04,4.0,7366.19,$28018.04
+Lil,Wroe,TX,Environmental Specialist,$32160.14,29,656,31,F,$14577.92,3.6,-148.79,$73291.14
+Cleavland,Archell,IL,Product Engineer,$55488.22,4,516,31,M,$334426.38,3.7,5065.82,$62769.53
+Giacinta,Stove,VA,Computer Systems Analyst II,$50758.52,10,606,66,F,$347221.39,3.4,2213.36,$14902.89
+Suzy,Stitch,KY,Product Engineer,$39361.43,2,810,36,F,$489250.09,3.1,7617.25,$27438.14
+Gisela,Maundrell,PA,Nuclear Power Engineer,$51576.22,17,829,77,F,$374326.21,3.1,-983.27,$2193.96
+Loni,Plumley,CT,Compensation Analyst,$57144.88,2,500,30,F,$204787.83,2.8,2542.15,$55918.26
+Teressa,Stroban,MD,Human Resources Manager,$53963.42,10,400,23,F,$349794.87,4.0,28.11,$23976.77
+Dill,McIsaac,LA,Software Engineer I,$32457.74,7,409,58,M,$354737.88,3.0,3618.43,$7904.34
+Arel,Avent,DC,Marketing Manager,$30331.53,23,626,40,M,$20633.85,2.5,315.07,$61803.31
+Hamil,McMurthy,WV,Cost Accountant,$44840.38,6,456,57,M,$340388.30,3.7,2223.66,$12418.17
+Devondra,Bower,DC,Senior Developer,$52125.09,4,383,80,F,$104889.38,2.8,1251.17,$36461.98
+Nalani,Padell,CA,Data Coordiator,$36179.87,2,780,42,F,$294485.62,3.1,7701.66,$56638.35
+Uta,McTerry,CA,Software Test Engineer III,$36060.92,4,563,32,F,$120429.96,3.7,4949.43,$20749.93
+Giorgi,Tubb,LA,VP Sales,$59309.29,14,806,26,M,$455639.87,3.5,5157.57,$17525.92
+Wallace,Barth,IN,Marketing Assistant,$58020.85,9,800,57,M,$446825.23,3.1,1683.83,$32885.46
+Jean,Burgoin,CO,Engineer I,$40357.87,27,427,31,M,$214417.17,3.9,2951.74,$281.02
+Tessi,Wickie,IA,Cost Accountant,$54453.41,27,456,27,F,$317035.15,3.4,9739.33,$7800.22
+Layne,Kirstein,VA,Database Administrator IV,$34505.04,19,652,33,F,$373650.02,3.6,8881.92,$55509.35
+Aggi,Shapera,VA,Assistant Manager,$30556.56,6,430,69,F,$299635.81,2.9,8835.79,$12712.21
+Esra,Asling,DC,Product Engineer,$40983.17,15,595,82,M,$422857.56,2.6,5641.96,$28390.13
+Minta,Kemmons,OK,VP Marketing,$37340.41,16,659,82,F,$11882.71,3.8,253.25,$58127.73
+Leese,Brigshaw,NC,Food Chemist,$56260.81,10,793,74,F,$61572.94,3.8,4767.61,$37603.22
+Heloise,Vesty,CT,VP Accounting,$28446.32,27,693,67,F,$411355.54,3.4,7530.34,$39418.58
+Dane,Bayford,OH,Assistant Manager,$32061.06,15,389,62,M,$67341.89,3.9,6618.46,$66160.19
+Rickie,Roxby,AL,Civil Engineer,$59459.62,7,565,48,M,$233561.73,3.8,7012.57,$60652.35
+Sheila,Zorzenoni,FL,Speech Pathologist,$49448.32,25,439,70,F,$121116.73,3.0,9750.46,$23801.46
+Mylo,Lyste,CT,Human Resources Assistant IV,$57060.37,11,506,50,M,$356426.29,3.7,792.53,$16761.78
+Veronica,Orknay,PA,Geologist IV,$52060.26,10,656,48,F,$177873.46,2.7,4140.73,$33948.47
+Hobey,Pont,AZ,Tax Accountant,$37832.02,21,617,58,M,$60844.57,3.6,5093.81,$23288.56
+Dex,Grayland,FL,Financial Analyst,$54462.52,5,494,41,M,$11463.19,3.5,-489.19,$4188.52
+Tye,Meneo,FL,Dental Hygienist,$40756.13,29,510,79,M,$130837.97,4.0,4573.56,$51522.13
+Leesa,Casaccio,WI,Operator,$56184.55,30,842,84,F,$448947.96,2.7,-843.23,$39710.90
+Eddi,Spinetti,CA,Staff Scientist,$41994.70,27,362,40,F,$201731.99,2.7,453.65,$68119.16
+Westbrooke,Pawlett,FL,Geological Engineer,$28600.78,5,800,25,M,$10010.97,3.3,2101.28,$70899.28
+Reginauld,Persent,FL,Accountant I,$50186.16,9,608,31,M,$231904.15,3.6,2376.68,$51229.51
+Bogart,Zelake,SC,Graphic Designer,$30231.95,11,451,37,M,$54313.66,4.0,2481.93,$25146.81
+Cordie,Dallaway,TX,Sales Representative,$54964.71,8,396,22,F,$186837.10,2.9,2915.1,$39900.04
+Cesar,Guess,MI,Librarian,$27764.41,1,622,81,M,$58346.91,3.7,3329.15,$60891.58
+Gisele,Klampt,WV,Assistant Media Planner,$28658.66,29,817,66,F,$436751.16,3.4,5534.84,$10015.86
+Bartlet,Searchwell,MI,VP Sales,$33164.28,12,842,28,M,$188981.71,4.0,9055.26,$29320.46
+Jessey,Woller,TX,Recruiter,$39737.61,4,657,28,M,$263845.61,3.5,9592.71,$4264.20
+Eloise,Poznan,TX,Payment Adjustment Coordinator,$44108.15,19,392,37,F,$318616.23,2.6,4109.93,$74011.35
+Edan,Bummfrey,GA,Chemical Engineer,$47257.89,9,428,71,M,$105408.82,3.7,9031.62,$68665.14
+Gilbert,Ferrino,WA,Associate Professor,$38095.43,25,710,68,M,$234140.50,3.2,9714.97,$63646.98
+Addie,Gerauld,MN,VP Quality Control,$45548.32,11,482,77,F,$253258.18,3.3,3864.15,$26530.11
+Thorndike,Romand,WA,VP Quality Control,$34390.77,3,840,52,M,$223013.83,2.6,7891.03,$58229.20
+Gaile,Milton,TX,Librarian,$54202.42,17,679,55,M,$196610.78,3.0,4100.16,$4863.22
+Warde,Rigby,TX,Analog Circuit Design manager,$37849.12,15,790,44,M,$302843.38,3.0,3655.46,$37884.02
+Delcina,MacHarg,IN,VP Quality Control,$54979.95,29,711,71,F,$445976.33,3.8,6651.19,$73041.69
+Lorrayne,Naisey,PA,Associate Professor,$40694.55,23,832,42,F,$264248.66,2.6,8321.58,$53630.03
+Rivalee,Speaks,CA,Research Associate,$39183.58,13,792,82,F,$340469.39,3.3,8551.04,$38595.87
+Kev,Brixey,CA,VP Accounting,$56318.25,25,436,38,M,$42442.80,3.7,1948.32,$25326.70
+Floyd,Vlach,CO,Software Consultant,$34365.70,24,412,24,M,$134538.80,2.6,2858.99,$973.21
+Boyce,Hynde,MD,Senior Financial Analyst,$54304.00,30,582,18,M,$1454.72,3.8,3061.68,$22316.42
+Giff,Gimblet,SC,Assistant Manager,$42883.79,12,715,33,M,$437616.98,3.4,203.24,$74564.08
+Yanaton,McMurty,DC,Geological Engineer,$35879.35,25,628,29,M,$336007.19,3.7,7857.87,$14810.82
+Dallis,Merman,TX,Dental Hygienist,$30050.25,15,371,82,M,$185052.71,3.6,7470.46,$58543.06
+Hallsy,Lerohan,OH,Chief Design Engineer,$33313.88,24,693,57,M,$221642.55,3.8,8704.17,$54965.34
+Abby,Wyldes,WA,Developer II,$30207.02,14,388,35,M,$134067.95,3.7,6925.96,$34357.71
+Friedrick,Nockells,FL,Accounting Assistant I,$49182.99,27,471,43,M,$337013.53,2.8,4270.98,$72899.44
+Bride,Zukierman,TX,Dental Hygienist,$30292.17,3,505,70,F,$246613.64,3.2,8081.29,$47332.64
+Gerek,Kiernan,VA,Marketing Assistant,$41598.43,23,547,39,M,$266624.92,3.8,1632.35,$40070.27
+Brigid,Ollie,TX,Staff Scientist,$39648.73,9,585,63,F,$249000.27,3.1,4840.83,$10232.75
+Westleigh,Boston,CA,Human Resources Assistant I,$48338.45,4,786,78,M,$267032.95,2.6,904.17,$68366.07
+Jemmie,Dani,FL,Health Coach III,$41957.91,6,781,49,F,$102518.57,2.6,9360.29,$34561.69
+Elsbeth,Walas,MO,Librarian,$35129.57,19,823,33,F,$23761.75,2.6,7932.46,$7154.75
+Roana,McGovern,UT,Civil Engineer,$50528.48,9,478,52,F,$70902.06,3.0,5943.89,$41072.09
+Charmain,Yakhin,UT,Clinical Specialist,$50519.24,22,423,38,F,$439809.07,3.8,297.59,$38816.35
+Jolene,Tevlin,TX,General Manager,$47686.32,24,467,20,F,$204274.05,2.9,4814.19,$19155.33
+Putnem,Andreutti,MN,Structural Analysis Engineer,$58780.23,24,461,78,M,$210774.58,3.4,3515.6,$36049.50
+Garwin,Bucklan,MN,Administrative Officer,$46814.33,16,819,52,M,$278010.10,3.8,4554.96,$56944.48
+Neddie,Swafield,CA,Social Worker,$38089.40,8,541,59,M,$465278.91,3.4,4128.23,$30426.22
+Ester,Sandy,CA,Director of Sales,$47208.28,12,621,23,F,$407400.40,2.7,-25.05,$27783.06
+Lynelle,Shattock,MT,Senior Quality Engineer,$47722.60,7,650,85,F,$373721.76,3.8,4849.8,$21129.55
+Kristofer,Gavaran,OH,VP Marketing,$48211.04,21,494,43,M,$193930.44,3.5,9143.75,$29310.65
+Allene,Bamlett,DC,Food Chemist,$26728.60,26,604,80,F,$136822.19,3.7,-757.24,$15758.84
+Isadore,Albinson,OH,Nuclear Power Engineer,$53975.56,7,481,57,M,$101166.03,2.6,4141.82,$2493.16
+Wain,Cowwell,TX,Research Associate,$43314.79,30,559,19,M,$209879.76,3.2,5369.33,$44351.09
+Isaac,Boarleyson,AZ,Web Developer II,$35826.00,1,689,29,M,$456609.02,3.9,2138.64,$1088.68
+Mayer,Scemp,CA,Recruiting Manager,$27257.15,16,617,63,M,$296543.27,3.6,3827.24,$33945.34
+Curran,O'Hoolahan,PA,VP Accounting,$34850.47,15,702,23,M,$22727.23,2.5,1011.99,$66580.74
+Margery,Northwood,NY,Registered Nurse,$52712.35,3,639,47,F,$374368.77,3.8,7773.57,$70028.71
+Christophe,Wilcott,CA,Associate Professor,$30746.50,1,680,80,M,$202328.57,3.8,7571.08,$8062.83
+Haskel,Hallowell,TX,Database Administrator III,$41104.95,7,654,30,M,$285642.35,3.3,194.95,$71713.59
+Jessie,Kemmer,DC,GIS Technical Architect,$36736.23,29,679,40,M,$398959.02,4.0,6494.8,$71516.92
+Donalt,Izkovitch,CA,Community Outreach Specialist,$29125.63,15,718,30,M,$379521.61,3.2,1737.33,$21122.38
+Ric,Carine,NJ,Staff Accountant II,$37279.57,25,632,27,M,$133927.30,2.7,1302.01,$68885.25
+Jessey,Buff,GA,Software Consultant,$51724.56,10,745,30,M,$305382.80,3.1,3824.03,$58406.66
+Roxanne,Neale,NC,Director of Sales,$43533.39,28,823,63,F,$174501.89,3.1,-619.26,$60868.21
+Wit,Bubeer,NJ,Web Designer III,$35190.71,23,813,83,M,$59815.27,3.8,9477.21,$48631.41
+Fredi,Tales,TX,Quality Control Specialist,$46883.17,19,756,81,F,$278720.87,3.4,4011.99,$53398.10
+Mercedes,Coole,OH,Legal Assistant,$29265.22,19,687,53,F,$381775.43,3.4,6746.58,$30977.27
+Geoffrey,Cuchey,TX,Accounting Assistant II,$37626.14,13,749,32,M,$486420.86,3.9,9034.09,$600.08
+Frants,Hartridge,UT,Web Developer I,$40169.02,13,456,73,M,$353556.10,3.1,8769.71,$20684.15
+Olin,Lamming,MO,Software Test Engineer I,$51369.21,21,580,41,M,$369763.79,2.9,3970.16,$54858.13
+Daphna,Blockwell,TX,Systems Administrator II,$51600.03,12,656,51,F,$121453.14,2.6,1330.9,$6061.76
+Selig,Marson,OK,Environmental Specialist,$47837.09,8,523,32,M,$318872.26,3.1,9995.83,$44903.16
+Casper,Longcake,TX,Web Designer III,$33965.37,18,550,31,M,$328967.60,3.2,3072.59,$9919.07
+Gussie,Gibbonson,TX,Help Desk Technician,$52170.59,12,659,76,F,$383925.84,3.5,1869.9,$25146.60
+Flinn,Illingworth,WA,Safety Technician IV,$39303.14,16,517,43,M,$68144.80,3.2,1503.1,$48365.87
+Jeniece,Geffen,WA,Electrical Engineer,$57308.26,22,830,41,F,$77047.65,3.7,3710.74,$14120.34
+Kassandra,Bayliss,MO,Information Systems Manager,$36779.34,10,624,20,F,$226813.34,3.4,2239.83,$65761.09
+Tabina,Celiz,LA,VP Product Management,$55699.36,8,357,50,F,$19841.19,2.8,957.49,$19198.27
+Gwendolin,Bernhard,NC,Cost Accountant,$37334.38,11,821,53,F,$399336.50,3.5,-988.35,$7817.50
+Kiel,Hars,MN,Electrical Engineer,$34309.18,21,653,85,M,$415969.05,3.7,2842.66,$49727.28
+Kalila,Kleinplac,GA,Pharmacist,$48688.47,1,504,37,F,$412725.28,3.4,3933.5,$18165.98
+Aurel,Channon,NY,Automation Specialist IV,$29680.79,5,358,34,F,$264027.56,3.0,3464.86,$73541.62
+Elihu,Heine,PA,Senior Cost Accountant,$40827.98,15,522,51,M,$3023.68,2.5,8053.54,$28165.27
+Baily,Kettlestringe,NY,Clinical Specialist,$36701.60,22,364,47,M,$479241.07,3.4,2769.53,$42922.84
+Giacopo,Broader,MD,Graphic Designer,$36923.16,10,451,33,M,$418540.93,3.8,5773.06,$16175.21
+Verge,Jamson,TX,Cost Accountant,$48717.50,29,516,67,M,$189040.87,3.4,279.87,$72577.18
+Vassily,Filintsev,SD,Quality Engineer,$51037.43,25,612,68,M,$491410.97,3.1,7774.07,$27012.08
+Roshelle,MacKowle,FL,Executive Secretary,$29982.26,18,751,76,F,$23742.79,3.4,3202.67,$55023.07
+Francesco,Lyttle,WI,Research Nurse,$53071.96,10,655,46,M,$230401.30,3.2,4310.74,$6728.04
+Amandi,Buyers,GA,Developer I,$53959.68,14,389,46,F,$68937.03,3.1,7195.03,$53255.04
+Veronika,Minchi,OK,Financial Advisor,$31338.95,10,676,36,F,$173969.00,4.0,-166.75,$31166.03
+Chev,Sexty,TX,Help Desk Operator,$54314.56,2,626,78,M,$276238.46,2.6,5580.41,$32007.21
+Blinni,Duffrie,WV,Data Coordiator,$47491.48,9,495,83,F,$494552.57,3.0,2549.8,$39537.60
+Mervin,Gooddie,LA,Research Nurse,$34243.88,14,441,20,M,$432302.21,3.0,9907.93,$72038.77
+Britt,Megson,OH,Electrical Engineer,$54274.62,18,623,53,F,$312590.02,3.3,6422.01,$16932.16
+Kristofor,Bushel,TN,Staff Scientist,$27495.83,8,530,80,M,$201882.19,3.6,3720.56,$66907.86
+Stefano,Grandin,GA,General Manager,$58539.24,16,612,62,M,$309801.01,3.4,7322.99,$23190.24
+Flin,Fernandes,LA,Payment Adjustment Coordinator,$43064.35,1,506,60,M,$237995.38,3.8,-298.38,$61555.47
+Moses,Garret,VA,Software Consultant,$52324.77,6,648,50,M,$406288.00,2.7,7730.2,$55227.42
+Isador,Poxon,FL,Health Coach III,$46673.60,23,824,79,M,$355768.74,3.9,4199.74,$45937.09
+Emeline,Bromage,TX,Paralegal,$42501.99,6,844,58,F,$182644.08,3.8,6630.89,$66033.91
+Matty,Naire,TX,Associate Professor,$28268.33,2,379,46,M,$315930.84,2.7,8151.36,$40134.75
+Joanie,Castaignet,LA,Administrative Assistant III,$31529.57,3,595,44,F,$144071.63,3.7,6547.97,$33306.93
+Kally,Basnett,NY,Staff Accountant IV,$56328.99,5,641,19,F,$388645.45,3.7,-221.83,$3670.58
+Gerladina,Amoss,VA,Computer Systems Analyst I,$55510.28,8,536,59,F,$383706.48,3.0,2627.23,$25090.30
+Pollyanna,Taylder,WV,Desktop Support Technician,$45739.11,18,741,69,F,$192682.76,3.6,-894.34,$19089.82
+Ellwood,Olyonov,IL,Chemical Engineer,$54522.13,30,795,50,M,$189340.24,3.0,6014.96,$34037.85
+Lorain,Jedrzaszkiewicz,NY,Developer III,$37691.64,4,669,29,F,$51037.87,3.4,3203.3,$21426.15
+Kellen,McAuslan,IL,Geological Engineer,$31595.07,4,463,32,M,$111426.47,2.6,8646.07,$14320.83
+Charlena,Twinbrow,NY,Geologist III,$36066.47,16,360,70,F,$280065.35,3.5,2028.51,$39986.35
+Spenser,Shevell,NY,Research Associate,$29630.48,10,646,37,M,$390109.67,3.3,7151.39,$11706.00
+Dacia,MacIlraith,CA,Project Manager,$51854.57,22,741,32,F,$125673.30,3.1,9983.58,$53171.39
+Rowney,Scarborough,CA,Sales Representative,$57107.42,7,443,42,M,$478185.18,3.1,7583.93,$35401.08
+Robers,Pankethman,OK,VP Accounting,$38793.11,2,350,74,M,$456809.52,3.6,9170.77,$51232.16
+Ofelia,Scurman,CA,Marketing Manager,$36259.84,23,622,54,F,$38319.55,3.4,6996.49,$21680.41
+Purcell,Casperri,NC,Tax Accountant,$47013.48,25,572,43,M,$103907.17,3.8,8073.77,$58944.61
+Jeffie,Grover,KS,Recruiter,$41866.19,19,821,22,M,$144297.58,3.5,7221.82,$62414.32
+Juliann,Maginn,TX,Programmer Analyst II,$48670.70,22,558,77,F,$250702.02,2.5,5851.18,$31531.74
+Woodie,Luparto,MD,Research Nurse,$59172.89,16,765,80,M,$265489.00,3.8,6598.73,$54613.02
+Elisa,Chittey,CA,Database Administrator IV,$56689.03,29,591,66,F,$38537.99,2.8,7488.57,$2966.68
+Marita,Witheford,OH,Accountant I,$33512.65,18,522,18,F,$332662.67,3.3,7969.89,$74981.42
+Beatriz,Peare,VA,Financial Advisor,$34939.90,14,573,59,F,$475314.26,3.6,1638.06,$23864.87
+Vonnie,Ianiello,TN,Legal Assistant,$42136.07,18,714,49,F,$329257.36,3.7,5199.98,$70867.73
+Costa,Wymer,NY,Statistician I,$58346.24,27,496,34,M,$171232.19,4.0,2910.13,$63423.68
+Vale,Lomond,VA,Web Designer II,$47476.65,17,525,65,M,$145000.46,3.7,-724.53,$6721.89
+Renault,Gonnel,NC,Marketing Assistant,$59164.36,3,821,69,M,$26254.51,2.7,6057.1,$67491.90
+Berkley,Cluderay,CA,Geological Engineer,$42019.26,23,848,18,M,$353407.37,3.9,5847.96,$50116.43
+Reilly,Dreghorn,TX,Account Executive,$53308.99,25,404,83,M,$126002.09,3.7,4668.59,$7185.11
+Gena,Vigne,NY,Programmer Analyst II,$53631.26,15,511,47,F,$43151.24,2.9,-844.36,$10739.01
+Allyn,Hamnett,OH,Dental Hygienist,$50793.92,23,756,18,M,$114452.27,3.1,4615.02,$6304.13
+Ange,Croucher,NY,Graphic Designer,$56904.22,28,670,33,M,$443409.22,3.0,8145.48,$26411.05
+Rennie,Treacy,NC,Desktop Support Technician,$42625.74,13,420,26,F,$44222.80,3.6,5384.47,$71718.92
+Margaretta,Vaughten,KS,Structural Analysis Engineer,$33662.18,20,499,32,F,$346681.92,3.5,3454.74,$64601.49
+Nathanael,Clingan,NC,Web Developer I,$47363.88,28,741,39,M,$143797.35,3.5,9769.59,$11153.95
+Boone,Matusovsky,OK,Biostatistician III,$33472.21,18,383,59,M,$442526.73,3.3,6361.29,$65414.88
+Fernande,Loveredge,VA,Tax Accountant,$56194.59,6,597,70,F,$423321.50,2.7,2350.84,$11540.77
+Delia,Ferenczi,PA,Clinical Specialist,$58603.16,17,691,42,F,$78947.63,3.4,4496.55,$7786.57
+Giustina,Andor,UT,Account Executive,$59141.59,14,651,39,F,$25164.96,2.9,302.94,$27531.91
+Wiatt,Di Pietro,OR,Help Desk Technician,$30377.58,6,514,70,M,$322860.11,2.9,-610.11,$65817.68
+Meryl,Streeter,FL,Tax Accountant,$59814.86,30,624,36,F,$255656.47,3.6,6471.11,$67571.02
+Tamarah,Sargeaunt,OK,Help Desk Technician,$54200.57,10,841,36,F,$44134.02,2.8,11.63,$42278.15
+Erda,Shakspeare,FL,Junior Executive,$48527.40,20,630,44,F,$284008.28,3.5,5242.5,$12113.24
+Smitty,Robison,GA,Compensation Analyst,$57338.13,15,355,37,M,$494896.02,3.5,-747.28,$43684.79
+Wells,Fasler,ND,Human Resources Manager,$32718.50,13,503,37,M,$455186.98,3.3,5264.31,$68330.01
+Calla,Myring,WI,Accounting Assistant I,$26972.63,29,705,70,F,$409203.26,2.6,5517.18,$27818.08
+Halsy,Whitehorne,TX,Analog Circuit Design manager,$40239.91,7,650,79,M,$437091.12,3.2,2216.07,$55094.25
+Nancee,Meharry,MD,Staff Scientist,$35279.37,1,492,42,F,$230355.79,3.4,7941.09,$36960.63
+Adrea,Etridge,TX,Human Resources Assistant I,$46677.86,2,698,53,F,$67356.48,3.5,-860.18,$50770.36
+Bryana,Simmig,CA,Geological Engineer,$40592.94,6,709,30,F,$65690.46,3.8,737.21,$34925.37
+Tobye,Sams,TX,Analyst Programmer,$58702.15,20,702,30,F,$97039.36,2.9,1563.17,$19735.00
+Karrah,Deschlein,FL,Geologist I,$56430.66,23,643,28,F,$473783.58,2.7,-430.99,$37851.29
+Neil,Avory,TX,Nuclear Power Engineer,$54949.32,7,771,71,M,$226665.63,2.6,4190.03,$14952.34
+Teddy,Marty,SC,Recruiting Manager,$29800.75,17,401,56,F,$334848.12,2.9,2785.52,$24158.52
+Emmie,Gelletly,NY,Sales Representative,$55954.43,5,362,22,F,$6719.21,3.5,7929.32,$28972.61
+Hildagard,Greir,TX,Statistician II,$38614.69,21,500,33,F,$105058.62,3.7,7236.23,$63970.91
+Keri,Ballinghall,NY,Editor,$48302.38,10,618,50,F,$140929.75,3.8,7778.0,$1866.93
+Darci,Eede,TN,Structural Engineer,$54084.66,22,646,28,F,$104968.45,3.8,1135.79,$58324.31
+Conrado,Carlens,OH,Senior Sales Associate,$45068.30,26,730,36,M,$22179.41,2.5,745.45,$42841.48
+Zacharia,Blakeney,CA,Automation Specialist III,$48451.59,30,422,76,M,$403427.18,3.6,9033.47,$72290.11
+Burt,Toothill,WA,VP Sales,$57532.68,6,772,38,M,$290340.66,2.6,208.65,$63858.82
+Alaine,Morrissey,NY,Recruiter,$36398.45,10,787,80,F,$365065.15,3.4,7767.05,$43519.29
+Tobe,Tellenbrok,NY,Environmental Specialist,$36793.40,15,423,18,M,$145572.33,3.4,9193.0,$67316.11
+Sadie,Kirley,OR,Staff Scientist,$46851.92,24,367,36,F,$39364.07,3.0,-129.12,$62537.53
+Coleman,Prescote,AL,Accountant III,$47034.13,17,510,60,M,$379922.96,3.8,6921.88,$58013.24
+Marlee,Jickles,PA,Payment Adjustment Coordinator,$47291.37,10,473,64,F,$345801.13,3.6,6592.52,$9862.54
+Hilde,de Clerc,TX,VP Product Management,$49153.86,27,780,29,F,$104400.57,3.3,6169.14,$62241.20
+Constance,Piggin,NY,Database Administrator IV,$47744.26,11,409,72,F,$62799.21,3.7,1717.01,$28608.72
+Bertina,Ferronel,FL,Research Nurse,$53515.39,7,745,64,F,$152451.70,3.7,1580.22,$21756.29
+Marley,Turl,NC,Speech Pathologist,$38283.63,7,447,47,F,$94519.69,3.6,1073.7,$31231.39
+Shelba,Rogez,NY,Food Chemist,$41577.95,22,438,44,F,$88744.81,2.7,7082.69,$7716.25
+Whitney,Gurnett,OH,Chief Design Engineer,$38307.58,22,545,53,F,$134998.48,3.2,1402.81,$60568.07
+Alikee,Kings,TX,Paralegal,$28186.81,2,690,79,F,$117870.65,3.6,3784.03,$33937.53
+Patrick,Atley,KY,Teacher,$30766.41,8,815,27,M,$23068.84,2.6,8552.26,$17607.71
+Ranice,Isenor,TX,Dental Hygienist,$27159.10,20,431,62,F,$70614.99,3.3,2004.63,$4137.67
+Fallon,Le Gallo,TX,Physical Therapy Assistant,$42906.83,24,717,36,F,$27667.65,4.0,6919.11,$14665.72
+Brnaba,Keech,NE,Financial Advisor,$31425.72,3,569,72,M,$232289.62,3.5,4327.87,$33640.39
+Dallas,Senyard,TX,Chief Design Engineer,$27349.95,13,512,52,M,$250686.67,3.5,8570.64,$64376.33
+Phyllys,Adolphine,GA,Web Developer III,$45986.70,8,460,73,F,$209253.93,4.0,8876.49,$24488.04
+Karylin,Salmon,TN,VP Quality Control,$49413.49,1,411,58,F,$46324.73,2.5,9480.36,$50769.64
+Dena,Klauer,NY,Cost Accountant,$28073.99,1,494,22,F,$422669.71,3.0,8379.77,$36902.21
+Wakefield,Coldrick,MO,Occupational Therapist,$45189.87,28,592,51,M,$145812.34,3.6,1916.07,$49439.59
+Coreen,Hindsberg,LA,Marketing Assistant,$51162.74,19,841,52,F,$181724.04,2.8,6728.25,$68945.49
+Vivien,Coode,WI,Mechanical Systems Engineer,$55784.93,17,487,46,F,$444364.82,4.0,2340.89,$14835.09
+Cassie,Tupp,CA,Community Outreach Specialist,$35167.58,6,789,38,M,$42690.70,3.1,4874.21,$55010.25
+Caria,Jesson,CA,Web Designer IV,$41728.44,22,421,64,F,$389411.20,3.3,1340.94,$9187.95
+Leilah,Blastock,AZ,Pharmacist,$33387.76,11,552,59,F,$487318.69,3.9,5507.85,$9010.15
+Ezmeralda,Broadway,NC,Systems Administrator III,$58564.59,9,439,44,F,$101888.88,3.6,6853.85,$67657.37
+Clemens,Wicher,MD,VP Quality Control,$48330.42,5,523,39,M,$472134.62,2.9,6263.37,$2083.27
+Zacherie,Weir,DC,Account Executive,$38954.12,28,675,21,M,$99161.09,3.2,6945.68,$14199.22
+Filide,Bande,OH,Structural Engineer,$47267.61,19,465,39,F,$57882.78,2.8,9447.58,$297.49
+Kerstin,Kellart,UT,Budget/Accounting Analyst IV,$29745.47,17,562,76,F,$414339.74,3.5,4560.36,$36950.12
+Freddy,Tommei,WA,Programmer II,$35718.91,29,770,73,F,$128784.39,3.7,2450.01,$9230.42
+Bram,Danzey,CA,Accounting Assistant IV,$50887.80,24,767,34,M,$123185.01,2.8,6652.0,$44330.41
+Ainslee,Orridge,AR,Occupational Therapist,$32892.80,22,683,61,F,$420366.43,3.4,2493.81,$4231.69
+Gino,Gaymer,PA,Pharmacist,$44679.44,29,445,48,M,$273078.16,3.3,8672.8,$35776.39
+Anjela,Francesconi,WV,Research Nurse,$47993.74,19,767,45,F,$193574.53,3.6,3192.98,$27251.12
+Liesa,Salling,MN,Graphic Designer,$50255.85,12,764,21,F,$38570.11,2.5,3129.53,$45208.14
+Elset,Redshaw,NE,Environmental Tech,$53181.54,18,819,34,F,$174629.89,3.9,2717.82,$1944.73
+Lilah,Saggs,FL,VP Product Management,$30327.12,20,363,68,F,$365067.66,3.9,3919.46,$18176.57
+Angeli,Rawsthorn,TX,Engineer I,$29086.94,23,745,55,M,$205772.60,3.5,9387.26,$7045.02
+Spike,Shower,ME,Senior Sales Associate,$54541.23,3,604,32,M,$356219.91,3.8,8659.14,$31776.63
+Danny,Yurin,FL,Cost Accountant,$26773.78,23,361,34,F,$36881.29,3.0,3175.0,$43916.31
+Ernestus,Fishley,DC,Programmer III,$48813.31,14,710,22,M,$421756.49,3.9,-785.3,$56686.67
+Brandyn,Aingell,ID,VP Product Management,$44654.76,2,370,30,M,$9797.11,3.8,9308.12,$21871.90
+Roseanna,Beet,CA,Director of Sales,$36831.86,10,545,83,F,$64390.34,3.6,2379.65,$62408.27
+Georgie,Leary,PA,Budget/Accounting Analyst IV,$50107.40,19,406,23,M,$29962.47,2.5,4858.75,$43781.14
+Jammie,Tuckwood,WA,VP Quality Control,$49389.10,11,807,68,F,$343728.45,2.6,7031.33,$72028.28
+Whit,Jonathon,TX,Financial Advisor,$47544.29,15,623,77,M,$211750.13,3.1,8499.25,$25995.70
+Lenee,Bertot,SC,Executive Secretary,$54099.06,28,621,37,F,$483745.83,3.1,4039.57,$2972.21
+Roland,Fildes,NC,GIS Technical Architect,$39965.43,25,595,23,M,$444104.21,2.9,5868.49,$53869.90
+Charmian,Scarfe,LA,VP Accounting,$26659.65,14,392,63,F,$397527.51,3.4,1009.59,$46622.48
+Jo-ann,Lodwick,PA,Electrical Engineer,$45187.76,15,835,65,F,$53179.91,3.1,7790.31,$3873.05
+Timoteo,Gibbett,FL,Design Engineer,$35107.31,29,560,68,M,$144746.06,2.7,7619.71,$35252.80
+Tadio,Skentelbery,FL,Design Engineer,$39737.57,1,828,42,M,$287693.41,2.6,5171.91,$12155.57
+Neils,Rubinov,CA,Electrical Engineer,$37047.38,8,696,51,M,$346879.28,2.5,2392.74,$29066.63
+Woodrow,Jarrell,UT,Sales Associate,$40247.53,18,427,49,M,$126114.35,2.9,2410.85,$62190.61
+Vincent,Mebs,OH,Human Resources Assistant IV,$29105.99,14,775,29,M,$241253.09,3.5,1991.12,$567.36
+Ferdie,Ayscough,KY,Sales Associate,$55107.38,16,386,34,M,$60338.80,3.7,2931.85,$20135.34
+Bryna,Hawkeridge,AK,Accounting Assistant III,$31878.09,23,569,70,F,$467851.42,3.5,6143.59,$60924.21
+Marcelo,Weatherdon,TX,Mechanical Systems Engineer,$45973.19,17,696,43,M,$442162.52,3.7,-420.29,$21742.16
+Mylo,Tyhurst,NE,VP Product Management,$51371.11,23,496,84,M,$147769.35,3.7,6510.45,$33200.04
+Dew,MacIlhargy,OH,Account Representative II,$48907.72,29,387,84,M,$350332.10,2.7,7001.14,$51422.12
+Debi,Gude,FL,Legal Assistant,$40732.84,27,731,70,F,$387387.00,3.8,865.48,$16774.01
+Dorothee,Tredinnick,TX,Statistician IV,$34310.39,24,785,39,F,$81586.95,3.0,3569.0,$8432.16
+Hansiain,Lunck,TX,Technical Writer,$53167.27,5,380,60,M,$471644.30,3.3,5148.31,$7698.88
+Ulla,Bodimeade,OR,Chemical Engineer,$27380.37,3,707,45,F,$414259.32,3.1,6800.19,$29371.14
+Krystle,Calderonello,DE,Financial Analyst,$42158.76,6,760,81,F,$274861.41,3.7,3229.88,$58264.45
+Maitilde,Ram,TX,Programmer Analyst I,$57082.53,25,573,26,F,$46699.16,3.4,7705.48,$20735.98
+Talbot,Bulbeck,AR,Software Engineer III,$34325.07,18,487,69,M,$201652.72,3.1,3624.98,$56390.32
+Evvie,Rodge,NE,Electrical Engineer,$47799.58,19,598,62,F,$284930.80,3.9,6987.11,$4639.06
+Niki,Slatter,NY,Chemical Engineer,$28508.40,10,617,55,M,$387842.65,3.1,9061.03,$43054.54
+Ashlee,Romero,WA,Actuary,$32665.58,3,804,77,F,$142972.53,3.7,8015.46,$48651.64
+Myrlene,Robus,AZ,Administrative Officer,$31038.30,13,456,42,F,$158326.91,2.7,3715.9,$64891.48
+Murial,Roberto,TX,Nuclear Power Engineer,$36684.74,16,837,43,F,$264356.11,3.4,9997.16,$58889.42
+Caralie,Withinshaw,IL,Staff Scientist,$27588.17,1,740,40,F,$313646.36,3.8,9110.42,$54831.56
+Read,Bamb,PA,Marketing Assistant,$44583.51,20,812,43,M,$281285.01,3.1,8349.45,$9370.42
+Stirling,Manifield,NC,Pharmacist,$29065.85,6,766,67,M,$229272.41,3.8,4659.47,$32712.27
+Hollis,Sale,OK,Business Systems Development Analyst,$42859.26,22,595,37,M,$223229.95,3.8,4981.42,$31284.02
+Juan,Hewes,NJ,Database Administrator II,$38488.45,30,667,29,M,$425360.08,3.4,7636.14,$48322.49
+Harmony,Vitler,CT,Design Engineer,$54840.63,17,626,31,F,$167871.92,3.9,119.46,$50437.52
+Peta,Blenkensop,TX,Recruiter,$54591.51,12,569,53,F,$314589.78,3.7,6193.59,$5974.51
+Angelica,Guyver,NY,Chemical Engineer,$58060.22,15,730,71,F,$446391.66,2.6,2487.19,$70557.66
+Casie,Pyrke,IN,Web Designer I,$36871.28,22,686,41,F,$92935.37,3.3,561.17,$8560.46
+Laurens,Itzkovich,UT,Media Manager I,$46775.82,13,850,58,M,$304385.67,3.4,-201.53,$1938.09
+Reamonn,Jackett,WV,Assistant Media Planner,$54498.61,19,508,18,M,$362905.13,3.6,3038.08,$70372.60
+Paulo,Hubbard,CA,Accountant IV,$47065.14,21,379,35,M,$403654.39,3.2,1448.82,$60476.60
+Ibby,Halligan,MO,Assistant Professor,$36855.30,11,744,49,F,$369824.43,3.7,84.41,$17038.97
+Mathias,Klassmann,CA,Systems Administrator II,$40054.98,28,785,22,M,$19919.74,3.7,4354.87,$22043.94
+Nataline,Naire,FL,Staff Scientist,$48505.25,11,361,65,F,$350820.15,3.5,6716.48,$42610.64
+Germaine,Mulqueeny,TX,Engineer IV,$35334.30,3,363,43,M,$394346.40,3.7,4290.5,$15791.48
+Ellerey,Heymann,FL,Legal Assistant,$50996.11,12,696,29,M,$227210.37,3.6,7982.46,$56863.84
+Fifi,Brugman,NY,Administrative Assistant III,$55982.41,15,714,50,F,$115425.19,3.9,2034.04,$54350.61
+Christina,Kidman,CO,Physical Therapy Assistant,$27907.83,1,383,38,F,$499445.08,3.4,2386.44,$4662.15
+Mallory,Martinets,LA,Marketing Manager,$42266.44,16,668,35,F,$142497.91,2.8,7080.21,$36225.94
+Gray,Minillo,DC,VP Quality Control,$47456.34,23,719,73,F,$294137.44,3.9,1934.29,$12519.70
+Moritz,Nimmo,TX,Nurse Practicioner,$50870.68,7,560,73,M,$99118.29,3.7,-19.79,$47611.68
+Prue,Heart,MI,Sales Associate,$54547.47,3,453,65,F,$208873.55,2.8,4943.41,$67898.15
+Nathalia,Rothschild,CA,Structural Engineer,$42572.13,25,754,60,F,$235964.43,2.6,9618.67,$1537.95
+Faun,Spanton,CO,Nurse Practicioner,$53896.09,21,588,26,F,$161100.64,3.2,7642.18,$32183.21
+Lorenzo,Boddymead,CA,Nuclear Power Engineer,$50934.34,20,818,80,M,$359418.98,3.3,-995.2,$72447.23
+Morty,Boosey,IL,Quality Engineer,$59908.41,30,430,79,M,$409975.38,3.8,9340.56,$63604.49
+Gerty,Botcherby,WV,Chief Design Engineer,$49960.15,26,742,45,F,$459377.40,2.9,5089.01,$25979.34
+Gretal,McClinton,TN,Programmer Analyst III,$44285.50,9,455,23,F,$313967.82,3.0,1240.52,$41720.80
+Bobby,Cardoe,DC,Assistant Manager,$26906.98,6,352,58,F,$225933.36,3.9,9093.62,$39911.65
+Tomaso,Spilling,NC,Office Assistant I,$42022.68,9,710,53,M,$400923.23,3.9,957.56,$65215.68
+Susanna,Timpany,WA,Pharmacist,$43560.75,6,684,85,F,$39351.14,2.9,2989.95,$53392.54
+Niel,Rogerson,VA,Computer Systems Analyst II,$36396.52,22,514,33,M,$222548.32,3.7,6514.22,$28906.09
+Hyacinthie,Downton,GA,Registered Nurse,$34281.35,28,434,40,F,$402008.55,3.2,7460.23,$27550.26
+Ephraim,Louthe,KY,Data Coordiator,$30710.30,28,617,73,M,$115237.61,2.9,3069.35,$49535.18
+Chancey,Kampshell,FL,Mechanical Systems Engineer,$46754.55,18,665,44,M,$110695.54,3.0,3792.79,$66289.44
+Benson,Passmore,IN,Community Outreach Specialist,$53067.66,26,840,35,M,$297297.85,3.9,6213.96,$37173.47
+Giff,Kirrage,FL,Research Assistant I,$42531.57,24,490,77,M,$232076.37,3.3,8269.41,$43488.02
+Tabbi,Borgne,NV,Desktop Support Technician,$30308.20,5,794,44,F,$354974.03,4.0,7894.69,$65693.26
+Elenore,Nono,TX,Structural Analysis Engineer,$42967.19,29,492,28,F,$479562.94,3.1,2689.24,$69071.62
+Nicholas,Knight,MT,Budget/Accounting Analyst II,$56656.15,17,625,85,M,$2033.26,3.6,7385.0,$72378.44
+Igor,Dabner,OH,Product Engineer,$39576.97,17,592,43,M,$130686.77,2.7,1290.09,$24121.31
+Francois,Binney,AL,Technical Writer,$43559.48,14,592,48,M,$84322.58,2.9,-404.37,$41369.90
+Magdalen,Macro,DC,Executive Secretary,$56741.01,30,652,68,F,$335237.10,2.6,3792.38,$42439.36
+Xymenes,Danihel,PA,Sales Representative,$27020.57,22,409,70,M,$189223.09,3.5,8736.33,$1373.17
+Murielle,Plackstone,NY,Associate Professor,$55612.09,3,638,76,F,$354252.14,3.5,-181.2,$49264.63
+Christel,Frankowski,NY,Research Nurse,$49015.22,8,653,23,F,$328904.29,3.9,-230.21,$60647.22
+Gar,Boyington,TX,Nuclear Power Engineer,$34198.77,3,425,63,M,$151182.27,2.7,9512.28,$59041.31
+Latrina,Chung,UT,Cost Accountant,$38695.11,26,655,77,F,$311238.97,2.5,758.72,$72197.00
+Merissa,Sussans,FL,Librarian,$48225.53,13,576,35,F,$293619.46,3.3,5294.16,$71132.57
+Hana,Loram,MI,Software Consultant,$41314.87,12,578,52,F,$394661.97,2.5,-501.25,$22022.70
+Roxie,Ruddell,MI,Media Manager III,$57965.58,14,442,64,F,$97709.83,3.6,8732.45,$49898.92
+Ruthie,Bakeup,PA,Accounting Assistant II,$50282.94,4,804,73,F,$395624.47,3.4,8337.49,$50483.28
+Alistair,Castellaccio,MD,General Manager,$43801.34,10,586,25,M,$347367.44,3.6,7724.35,$33415.30
+Claudette,Basnall,VA,VP Product Management,$49374.65,29,749,19,F,$451622.79,3.5,3224.82,$48330.54
+Matteo,Godthaab,OK,Teacher,$29356.92,26,596,18,M,$13464.67,3.0,6183.8,$18376.68
+Bertie,Wichard,NJ,Clinical Specialist,$43462.21,20,378,62,M,$225840.74,3.0,1545.49,$67520.75
+Cordie,Cockren,GA,Physical Therapy Assistant,$38988.56,10,583,64,M,$401500.48,2.9,774.69,$19842.08
+Elmore,Drewery,OH,Geological Engineer,$39816.21,1,520,53,M,$36078.55,3.0,5012.83,$29290.08
+Mychal,Mathon,NY,Assistant Professor,$40351.38,29,499,37,M,$105418.33,3.7,9326.51,$58434.65
+Guinna,Genever,ND,Payment Adjustment Coordinator,$31822.89,28,477,31,F,$225286.02,3.3,3796.34,$58132.03
+Georgetta,Hanne,NV,Desktop Support Technician,$48435.56,22,494,64,F,$262020.84,3.7,5451.75,$27169.64
+Cazzie,Pfeffer,TX,Financial Advisor,$35611.03,15,547,80,M,$193824.43,3.4,6581.45,$35564.94
+Jabez,Grimsdell,WA,Programmer II,$50862.69,20,362,66,M,$315091.99,3.7,4928.67,$27246.40
+Yetta,Klejin,FL,Financial Advisor,$35021.68,30,777,19,F,$53569.20,3.2,7062.75,$57099.09
+Gert,Stanney,NY,Environmental Tech,$55352.81,9,779,65,F,$296733.14,2.6,6220.14,$47600.34
+Clarie,Crecy,FL,Budget/Accounting Analyst I,$29737.61,24,771,52,F,$131261.97,3.7,3692.16,$47187.59
+Dian,Westwood,TX,Recruiter,$46432.09,15,590,61,F,$273540.61,2.9,-336.89,$11168.98
+Archie,Fetherstone,CO,Chemical Engineer,$43113.50,17,573,84,M,$377644.97,2.6,8346.91,$13000.56
+Leela,Bulter,MN,Clinical Specialist,$57480.25,30,832,77,F,$183350.75,3.1,654.06,$8576.36
+Ernesto,Aldins,WV,Statistician IV,$55611.33,18,437,65,M,$392416.18,3.0,8472.67,$18476.76
+Diannne,Blencowe,OH,Senior Sales Associate,$52273.53,10,801,62,F,$469428.13,3.6,3943.57,$32114.48
+Randolf,Millgate,FL,VP Accounting,$56607.12,2,388,25,M,$360358.37,3.8,6561.45,$63160.47
+Art,Funcheon,FL,Financial Advisor,$48977.33,1,758,76,M,$155785.01,3.7,7726.81,$36998.40
+Alley,Welbourn,MI,Social Worker,$42326.15,18,765,26,M,$297393.76,3.0,4910.98,$30057.37
+Conroy,Wisbey,CA,Tax Accountant,$36068.30,9,372,24,M,$374165.18,2.8,2527.36,$10279.85
+Geoff,Neylan,DC,Environmental Tech,$43782.44,19,620,25,M,$267502.42,3.9,9475.13,$45602.60
+Hugues,Brockman,FL,Marketing Manager,$31533.59,11,390,73,M,$274014.99,3.7,451.12,$35472.11
+Rica,Speller,VA,Marketing Assistant,$32447.20,30,453,58,F,$303128.66,3.0,1189.4,$39999.90
+Valle,Schust,TX,Junior Executive,$33374.92,29,403,52,M,$397342.20,3.6,98.45,$70385.37
+Annecorinne,Yablsley,FL,Business Systems Development Analyst,$54822.24,11,435,80,F,$462991.90,3.0,2632.29,$730.88
+Bunnie,Bladon,NY,Senior Cost Accountant,$29145.36,11,513,41,F,$468937.65,2.9,3489.72,$58659.15
+Zoe,Wiltshire,CA,Account Executive,$56808.28,19,789,27,F,$371281.62,3.5,5687.34,$81.51
+Stearne,Riseley,CA,Technical Writer,$42394.88,4,670,42,M,$135356.57,3.2,4714.23,$38905.53
+Falito,Applegate,CA,Research Assistant IV,$40045.74,21,493,76,M,$21427.00,3.9,7750.9,$69864.11
+Denna,Averill,KY,Health Coach IV,$28733.07,26,632,48,F,$251013.40,3.9,622.29,$48491.54
+Gannon,Branston,NY,Environmental Specialist,$38612.55,30,596,68,M,$150695.24,3.9,795.97,$62068.39
+Xerxes,Downer,TX,Help Desk Technician,$52360.63,2,372,47,M,$141151.45,4.0,1846.26,$47667.32
+Anatollo,Pryer,TX,Pharmacist,$55369.93,2,419,40,M,$280055.43,3.7,7958.54,$18539.50
+Percy,Jennrich,NV,VP Accounting,$45220.53,29,451,82,M,$499752.05,3.8,8141.08,$23880.53
+Kathrine,Lettice,MD,VP Sales,$41232.56,20,380,55,F,$124920.80,3.5,2791.24,$50083.13
+Mord,Common,VA,Web Developer II,$43374.17,23,408,77,M,$437736.05,2.6,4095.86,$59566.12
+Mason,McCabe,TX,VP Quality Control,$48053.63,20,461,28,M,$248969.56,3.7,7956.71,$70400.85
+Bastien,Chiommienti,CA,Safety Technician I,$51848.59,10,495,59,M,$467377.61,2.7,2699.85,$39842.89
+Linoel,Kemet,LA,Sales Associate,$27809.12,28,501,34,M,$330033.41,3.0,5002.85,$43396.57
+Conrado,MacAndrew,NY,Assistant Professor,$59567.26,28,652,64,M,$65062.94,3.5,2763.46,$7627.31
+Thurstan,Golde,CA,Health Coach II,$45426.14,1,443,44,M,$250664.54,3.0,4865.98,$41038.21
+Richart,Faraday,DC,Information Systems Manager,$33453.76,25,675,44,M,$242316.42,3.4,5737.08,$4830.26
+Issi,Gallety,IN,Dental Hygienist,$27593.18,18,557,72,F,$352004.96,2.6,5768.28,$70850.29
+Saidee,Colnett,OR,VP Sales,$54261.76,5,720,62,F,$264043.61,3.3,1577.4,$53985.09
+Terese,Sanzio,AZ,Accountant IV,$44339.81,9,726,65,F,$82241.50,3.0,6631.22,$54921.55
+Gale,Rosettini,PA,Executive Secretary,$49105.23,29,657,25,F,$443716.03,2.6,8345.04,$14135.39
+Sherline,Spelwood,TX,Director of Sales,$52321.68,22,622,62,F,$302832.33,3.6,2615.42,$17019.08
+Rowan,Furphy,MA,Nurse Practicioner,$51551.17,6,760,64,M,$257700.30,3.7,1846.34,$1831.13
+Lexi,Hatherley,FL,Account Executive,$36422.66,28,350,19,F,$89987.21,3.0,8385.95,$44591.50
+Karylin,Huffy,TX,Marketing Manager,$29241.59,7,749,57,F,$368660.65,2.6,4598.68,$63200.49
+Stephenie,Jinda,AR,Junior Executive,$41429.38,23,506,68,F,$166434.27,2.8,7736.24,$72410.96
+Ettore,Crowdace,CA,Registered Nurse,$43000.96,6,756,28,M,$479151.34,2.8,3704.28,$31111.94
+Wyatan,Kilbourne,MN,Librarian,$28147.58,29,607,54,M,$414081.91,3.4,223.65,$71127.27
+Cori,Barkworth,UT,Teacher,$27488.21,6,673,55,F,$142892.14,3.1,5956.36,$12858.08
+Beatrix,Jurasz,AZ,Software Engineer I,$57071.41,3,525,75,F,$216777.60,3.0,1899.0,$70052.71
+Larry,Brunelli,CA,Recruiting Manager,$47103.12,26,565,78,M,$330443.45,2.8,9924.6,$32763.75
+Illa,Prior,GA,Mechanical Systems Engineer,$29318.07,16,760,50,F,$107525.84,3.3,4177.31,$6484.58
+Aleda,Brito,AK,Product Engineer,$30526.49,9,697,57,F,$393434.06,2.8,1253.33,$22464.87
+Mollee,Pollastrino,MN,Pharmacist,$45879.22,16,749,40,F,$350583.35,3.1,7509.7,$2197.83
+Rasla,Hunnisett,TX,Structural Analysis Engineer,$41444.37,16,761,44,F,$196511.13,2.6,6013.37,$39620.69
+Alic,Glendinning,NV,Assistant Manager,$47383.13,25,827,42,M,$381433.55,2.9,-794.87,$64447.40
+Ami,Pering,TN,Research Assistant III,$32507.47,26,705,52,F,$262956.50,2.5,3647.69,$2854.89
+Far,Kauschke,CO,Staff Accountant III,$43752.64,29,518,84,M,$323142.33,2.5,3670.02,$26182.75
+Carlie,Blockley,CT,Community Outreach Specialist,$41860.49,22,703,37,M,$375214.88,3.7,8968.82,$27395.73
+Laryssa,Roxburch,PA,Paralegal,$38407.86,17,756,36,F,$390997.04,3.9,4639.45,$50358.70
+Sammy,Crowden,GA,Environmental Specialist,$32048.65,18,475,60,M,$106700.70,2.9,1628.12,$35954.18
+Darn,Coton,CA,Automation Specialist II,$57341.20,21,434,40,M,$1710.91,3.9,2625.12,$32680.92
+Alexio,Skehan,AZ,Senior Editor,$32144.30,4,416,24,M,$17064.69,3.5,7926.45,$30596.97
+Jeromy,Satterlee,GA,Financial Advisor,$43836.47,8,512,31,M,$120299.09,3.1,4322.31,$42257.48
+Briny,Jendrys,GA,Developer II,$56935.56,10,490,59,F,$57516.70,3.4,4090.65,$15648.79
+Nick,Lamond,CA,VP Quality Control,$59997.83,14,393,76,M,$283368.98,3.6,5879.38,$5942.60
+Katrinka,Arnaudon,OH,Mechanical Systems Engineer,$48342.77,5,587,82,F,$159341.72,2.7,-31.76,$55375.48
+Renato,Fitch,CA,Programmer I,$57166.42,17,509,31,M,$225960.48,3.6,9640.94,$72189.95
+Katy,Finlry,PA,Web Developer III,$37033.78,11,719,51,F,$454835.40,3.4,7648.52,$16891.10
+Peri,Fotitt,TX,Mechanical Systems Engineer,$56359.20,15,827,79,F,$137219.15,3.0,6298.67,$42108.49
+Lawry,Harroll,CA,Financial Advisor,$44791.36,14,386,34,M,$347139.44,3.0,4943.11,$7983.04
+Grover,Rosenblad,CA,Payment Adjustment Coordinator,$45598.23,2,481,59,M,$185334.95,3.1,2326.6,$19578.99
+Kerrill,Sappell,NH,Data Coordiator,$50729.94,16,399,70,F,$128373.29,3.0,542.34,$4277.74
+Jacquie,Dachey,NY,Senior Financial Analyst,$29155.15,6,644,79,F,$39940.33,3.6,6948.27,$64037.06
+Saidee,Masedon,NM,Help Desk Technician,$35687.41,4,685,42,F,$225127.23,3.2,923.83,$56500.48
+Maddy,Iacobini,FL,Actuary,$57783.79,15,703,24,F,$53973.45,2.5,8267.3,$6796.20
+Miof mela,Burnham,OH,Sales Associate,$35990.62,17,700,45,F,$446135.17,3.5,5149.27,$52130.56
+Nappy,Lampert,PA,Staff Scientist,$30533.40,8,503,66,M,$144830.84,2.6,8843.72,$17021.88
+Giorgia,McLucky,LA,Nurse Practicioner,$50204.14,27,697,22,F,$296115.72,3.2,801.79,$31308.69
+Alyce,Addicote,LA,Geological Engineer,$48600.19,13,736,70,F,$29937.98,3.7,-426.55,$43830.18
+Cthrine,Trudgeon,NY,Account Executive,$53097.97,11,607,85,F,$112818.25,4.0,5018.84,$53440.60
+Juieta,Verma,OK,Chief Design Engineer,$39089.83,13,753,44,F,$173601.42,3.5,8675.01,$46211.96
+Nikolos,Jeandillou,CA,Computer Systems Analyst I,$52313.66,4,702,59,M,$96604.82,3.3,3883.64,$36906.53
+Izzy,Blizard,MD,Occupational Therapist,$42206.56,22,843,81,M,$212216.13,3.2,6451.14,$34957.43
+Patrizia,Winsome,UT,Design Engineer,$47100.59,25,810,39,F,$181848.67,2.9,7942.5,$40875.46
+Paul,Olander,CA,Dental Hygienist,$44030.34,16,767,56,M,$61413.56,3.4,1560.64,$63950.46
+Emmalynn,Dillet,MA,Operator,$50051.45,7,816,66,F,$199325.33,2.9,5005.47,$62714.05
+Phylys,Purveys,CA,Cost Accountant,$54112.34,15,573,18,F,$164533.51,2.8,2699.37,$51179.80
+Alida,Van der Velde,OK,Software Engineer IV,$36035.39,12,703,74,F,$423670.97,3.8,3141.2,$53770.45
+Fayina,Amiranda,FL,Account Executive,$44680.12,7,790,62,F,$370267.90,3.4,3530.56,$19732.34
+Janey,Drinkeld,NV,Clinical Specialist,$34991.09,10,401,50,F,$261286.98,2.7,3403.49,$69384.00
+Lanna,Barczynski,GA,Dental Hygienist,$51346.89,19,763,62,F,$193938.24,2.7,2259.05,$37214.53
+Tomasina,Densham,VA,Food Chemist,$45628.64,29,433,43,F,$336091.12,4.0,3043.59,$59029.71
+Alexandro,Matys,MA,Internal Auditor,$32809.78,3,803,72,M,$347117.82,3.3,-237.86,$42404.30
+Almire,Dolan,OK,Teacher,$59277.11,24,561,82,F,$299183.47,3.7,-260.83,$40299.69
+Bartlett,Frearson,VT,Geologist III,$58501.93,5,395,71,M,$53971.97,2.8,1726.72,$22793.88
+Eduard,Lamplugh,CA,Staff Accountant I,$35751.83,28,473,80,M,$41883.61,3.7,1156.41,$68084.73
+Holly,Vinnicombe,NY,Structural Engineer,$26579.13,8,831,28,M,$51109.83,2.7,2120.65,$31846.16
+Megen,Garr,CA,Geological Engineer,$36548.36,7,805,48,F,$244692.55,2.7,7485.35,$21106.93
+Dallis,Gill,VA,Structural Engineer,$48103.28,6,485,83,M,$459703.31,2.5,2337.3,$30846.06
+Hedi,Pirdue,OH,Civil Engineer,$58231.31,1,499,52,F,$375345.68,3.1,4110.66,$61528.36
+Lazaro,Ingyon,TX,Senior Quality Engineer,$46696.90,5,718,73,M,$225351.63,3.2,-72.14,$13521.81
+Kristina,Searston,NY,Dental Hygienist,$51714.10,26,547,59,F,$108314.22,3.3,3476.55,$15829.51
+Oran,Accombe,AZ,Compensation Analyst,$54027.10,20,839,42,M,$434626.03,3.2,6779.01,$50597.03
+Devin,Seccombe,OK,VP Marketing,$26868.06,8,513,40,F,$368143.06,3.3,183.5,$26609.83
+Cleveland,Goucher,OR,Data Coordiator,$36105.39,18,784,65,M,$330439.03,3.7,54.06,$8511.57
+Tomaso,Weatherall,WI,Research Associate,$41316.19,18,664,81,M,$495090.86,3.6,3435.22,$14207.29
+Bonnie,Blain,FL,Quality Engineer,$45126.71,15,456,31,F,$212819.09,3.9,9568.45,$31809.47
+Alana,Ales0,AL,Senior Sales Associate,$33162.93,30,389,73,F,$352353.90,3.9,5317.93,$38005.69
+Bronny,Bearns,AZ,Programmer Analyst IV,$41021.45,10,478,43,M,$359493.60,3.4,9024.06,$67257.76
+Zahara,Taffe,LA,Physical Therapy Assistant,$36243.41,28,474,22,F,$302529.96,3.6,9201.38,$21734.33
+Gaston,MacWhirter,NE,Dental Hygienist,$30273.68,30,590,52,M,$437320.52,2.9,5688.73,$18723.57
+Guglielmo,McPeake,DC,Graphic Designer,$32904.81,29,568,36,M,$357095.67,2.5,1692.36,$68550.86
+Adriana,Dewhirst,CO,Teacher,$59883.83,13,361,78,F,$216710.74,3.1,-203.64,$72528.72
+Jayson,Halversen,IL,Biostatistician I,$52874.59,16,849,28,M,$6762.34,3.2,3276.54,$72766.59
+Ethelbert,Yanshinov,GA,Desktop Support Technician,$47076.89,14,587,85,M,$355243.36,3.7,4215.44,$44149.72
+Shurlock,Spray,TX,Analog Circuit Design manager,$45721.04,15,762,56,M,$369986.78,2.7,9029.49,$33420.17
+Lauri,Shurmer,FL,Design Engineer,$33747.88,3,532,81,F,$196564.02,2.6,3153.4,$72997.38
+Maurice,O'Flynn,TX,Help Desk Technician,$51944.77,27,623,43,M,$356187.41,2.5,564.95,$44789.79
+Guthry,Klaff,CO,Programmer III,$26734.58,9,843,77,M,$136423.35,3.9,2604.21,$60717.77
+Ajay,Camier,VA,Actuary,$55978.28,13,506,53,F,$376011.79,3.1,4656.09,$29142.93
+Adi,Winterton,KY,Project Manager,$36009.62,5,503,67,F,$38856.53,4.0,7156.77,$17365.29
+Nettie,Orable,AL,Legal Assistant,$32380.92,17,526,63,F,$88951.94,2.8,6351.12,$4655.36
+Philip,Rodgman,MI,Dental Hygienist,$30800.83,14,464,29,M,$161967.18,2.9,1198.99,$38330.03
+Alecia,Batchelder,FL,Senior Cost Accountant,$39147.14,22,541,68,F,$470823.91,3.3,2447.77,$14145.20
+Jonas,Barrick,FL,Paralegal,$48502.08,21,581,80,M,$288747.77,3.0,2533.18,$6056.98
+Berti,Spawton,OR,Compensation Analyst,$44976.88,27,519,63,F,$14401.31,3.0,7848.33,$40186.99
+Innis,Bertot,GA,Programmer II,$53830.91,20,557,28,M,$289133.32,3.2,9917.69,$21595.13
+Nickolaus,Dollimore,CA,Business Systems Development Analyst,$30130.27,13,388,53,M,$472369.39,3.1,323.59,$59504.99
+Leila,Whylie,TX,Quality Engineer,$44713.29,4,778,53,F,$461612.93,2.8,9223.93,$71224.41
+Louie,Skipsey,NM,Staff Scientist,$51651.73,5,523,53,M,$158629.61,3.4,6737.34,$38972.78
+Avictor,Peschet,GA,Teacher,$40482.08,5,444,31,M,$466101.24,3.1,8278.05,$22738.45
+Fabe,Thayre,SC,Registered Nurse,$39640.09,3,683,74,M,$389017.99,3.0,1505.86,$6376.77
+Eddie,Standrin,NV,Professor,$49249.01,8,646,61,F,$484412.40,3.6,2571.74,$64431.17
+Catina,Peacher,IL,Dental Hygienist,$44659.26,18,360,19,F,$390156.78,3.3,7306.11,$66088.01
+Dede,Chidley,CA,Food Chemist,$53571.07,17,463,51,F,$162791.00,3.5,8438.42,$26714.59
+Eirena,Brecher,PA,Information Systems Manager,$51739.06,2,521,55,F,$35146.94,3.4,4397.43,$71547.64
+Quinlan,Messer,TN,VP Marketing,$41523.92,16,667,60,M,$318538.69,3.5,9392.93,$14383.12
+Goober,Gregor,KS,Administrative Officer,$55197.38,20,831,22,M,$31163.34,3.0,-826.52,$74961.51
+Ted,Attiwill,NJ,Compensation Analyst,$34894.56,25,423,18,F,$169142.67,3.6,6790.55,$23546.20
+Chris,Rosewall,MA,Sales Representative,$34097.75,5,602,49,M,$431154.77,3.4,9466.59,$50751.00
+Bryce,McCartney,TN,Accounting Assistant I,$52456.14,6,769,35,M,$152479.35,2.7,6970.91,$26041.72
+Basil,O'Sesnane,AL,Assistant Manager,$37071.51,8,529,22,M,$194097.31,3.6,5503.46,$29633.39
+Trixy,Southard,UT,Legal Assistant,$42910.46,24,680,48,F,$379368.13,3.3,2579.4,$37642.05
+Tammy,Willmot,FL,Marketing Manager,$31309.71,6,409,24,F,$1383.23,3.5,7647.73,$27683.20
+Barty,Legonidec,NV,Automation Specialist II,$36004.82,29,547,72,M,$135960.85,3.5,9945.25,$35038.29
+Godfrey,Beckworth,TX,Food Chemist,$38676.27,3,845,27,M,$202050.33,3.4,694.64,$42919.14
+Penn,Benge,HI,Help Desk Technician,$53517.33,13,636,52,M,$317717.56,3.0,8830.56,$29234.37
+Lockwood,Kennally,CA,Programmer Analyst II,$55263.34,4,576,49,M,$285108.20,3.0,-838.0,$14942.77
+Delia,Accum,NC,VP Sales,$58112.04,29,799,44,F,$314685.04,3.1,7057.42,$58473.84
+Constantine,Tubb,TX,Paralegal,$33066.45,28,554,49,F,$2930.24,3.0,2606.27,$25288.37
+Ferne,Sconce,NC,Research Associate,$41031.00,18,401,75,F,$494753.55,2.7,6725.17,$36952.94
+Jdavie,Anthonies,GA,Senior Developer,$57050.18,16,847,79,M,$6253.63,3.9,2966.15,$40260.03
+Michel,Gauthorpp,FL,GIS Technical Architect,$56005.86,27,656,23,F,$283138.63,2.6,1411.12,$60448.01
+Drusy,Adamsky,AL,Professor,$34818.96,18,600,35,F,$332578.39,3.8,-264.67,$74579.56
+Malory,Fernando,CA,Recruiting Manager,$51744.81,29,361,66,F,$119501.99,3.3,1397.93,$22028.34
+Hildegaard,Broadey,IN,Analog Circuit Design manager,$30969.04,1,476,70,F,$79888.31,2.6,7724.62,$18152.78
+Ferdinande,Bogges,PA,Research Assistant III,$40441.41,11,397,59,F,$173225.02,3.9,8548.69,$3522.76
+Sibeal,Bernetti,NE,GIS Technical Architect,$36150.25,21,353,39,F,$237978.66,3.9,6158.47,$18267.42
+Dulcy,Wathall,CO,Editor,$51865.01,21,623,30,F,$300671.42,3.4,657.4,$21253.45
+Cristin,Cleve,TX,Account Coordinator,$30383.40,11,420,27,F,$326831.47,3.9,9515.93,$65413.79
+Alika,Thurske,TX,Cost Accountant,$30435.27,7,369,78,F,$191030.70,2.7,4435.97,$16046.10
+Thaine,Nottram,MN,Programmer IV,$36278.38,8,393,55,M,$3759.24,3.7,6263.59,$2897.18
+Craig,Bellam,WA,Mechanical Systems Engineer,$56314.05,27,450,62,M,$187528.02,3.8,6282.99,$19181.71
+Tam,Bruckshaw,FL,Cost Accountant,$35603.73,18,471,61,M,$374132.60,3.5,7649.93,$52507.55
+Carlos,Gurden,NV,Database Administrator II,$51954.46,21,844,73,M,$393856.62,2.6,6010.46,$16117.19
+Benedicta,Veillard,CA,Structural Engineer,$36193.64,30,384,42,F,$19986.33,3.4,3463.54,$29957.20
+Nedda,Milmoe,TX,Computer Systems Analyst IV,$40194.90,9,604,60,F,$86303.99,3.7,6829.83,$12709.60
+Baily,Winter,OH,Internal Auditor,$35607.12,25,513,23,M,$367472.61,3.1,5912.08,$54858.51
+Franklin,Lehrmann,AZ,Pharmacist,$29021.65,7,519,67,M,$89721.72,3.9,1579.92,$68095.78
+Marchelle,Leedes,OK,General Manager,$33384.51,14,672,78,F,$461926.03,3.6,-965.61,$54487.32
+Bernelle,MacVicar,CA,Accounting Assistant IV,$48705.74,21,453,77,F,$16655.48,3.6,1481.13,$3241.87
+Jareb,Stainton - Skinn,AZ,Budget/Accounting Analyst I,$29774.72,30,571,78,M,$336489.31,3.1,8191.44,$60757.92
+Francisca,Wrathall,CA,Internal Auditor,$46652.92,24,478,43,F,$145435.68,3.0,-796.71,$61880.45
+Franklyn,Gladbeck,NC,Environmental Specialist,$31984.82,16,678,20,M,$460652.61,3.3,4902.36,$51731.58
+Chick,Niece,VA,Senior Financial Analyst,$35546.02,22,839,63,M,$491384.64,2.7,3587.4,$6247.20
+Leanna,Frigout,HI,Design Engineer,$50054.15,20,369,52,F,$267462.40,3.3,1674.61,$64541.75
+Francklin,Astlett,CO,Software Engineer III,$46445.92,2,385,64,M,$441534.91,3.4,796.63,$69317.64
